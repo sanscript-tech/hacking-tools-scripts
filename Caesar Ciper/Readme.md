@@ -10,3 +10,9 @@ Example: Upon giving a shift key of 2, A would be replaced by C, B by D and so o
 <p align = "center">
 	<img src="caesar_cipher.jpg" alt="caesar_cipher">
 </p>
+
+## Output:
+
+<p align = "right">
+	<img src="ouput.jpg" alt="score">
+</p>

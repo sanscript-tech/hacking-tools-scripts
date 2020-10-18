@@ -1,6 +1,6 @@
 ## IPL Score Scrapper
 
-This script provides live ipl socre on the command line.
+This script provides live ipl score on the command line.
 
 ## Requirements for this script:
 

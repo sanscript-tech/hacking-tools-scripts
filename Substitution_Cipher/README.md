@@ -10,9 +10,9 @@
 - The key will be accepted as a CSV file
 - Considering an example : 
 
-![Image](key.PNG)
+![Image](assets/key.PNG)
 
 - This is the key as agreed upon both the parties
 - On running the script, the user is prompted to enter a message
 
-![Image](encrypt.PNG)
+![Image](assets/encrypt.PNG)

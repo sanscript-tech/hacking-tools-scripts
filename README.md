@@ -54,7 +54,7 @@ git clone https://github.com/sanscript-tech/hacking-tools-scripts
 
 ## Tech stacks used 🛴
 
-Python
+**Any Scripting Language**
 
 
 ## Create a branch ⚓

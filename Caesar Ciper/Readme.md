@@ -14,5 +14,5 @@ Example: Upon giving a shift key of 2, A would be replaced by C, B by D and so o
 ## Output:
 
 <p align = "right">
-	<img src="Ouput.jpg" alt="output">
+	<img src="output.jpg" alt="output">
 </p>

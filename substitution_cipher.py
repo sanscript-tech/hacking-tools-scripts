@@ -12,7 +12,7 @@ def get_key():
     with open(sys.argv[1] , 'r') as file:
         reader = csv.reader(file)
         for row in reader:
-            key[row[0].strip()] = row[1].strip()
+            key[str(row[0])] = str(row[1])
     return(key)
 
 def encrypt():

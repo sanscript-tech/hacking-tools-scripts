@@ -7,3 +7,6 @@ It works by shifting each character of the input string by a given value down th
 
 Example: Upon giving a shift key of 2, A would be replaced by C, B by D and so on.
 
+<p align = "center">
+	<img src="caesar_cipher.jpg" alt="caesar_cipher">
+</p>

@@ -8,3 +8,11 @@
 
 - The user is prompted to enter the message as well as the key according to which the message will be encrypted
 - The key will be accepted as a CSV file
+- Considering an example : 
+
+![Image](key.PNG)
+
+- This is the key as agreed upon both the parties
+- On running the script, the user is prompted to enter a message
+
+![Image](encrypt.PNG)

@@ -6,7 +6,7 @@ This script converts HTML Files into Markdown.
 
 1.html2markdown
 
-install these two by running the following command:
+install this by running the following command:
 
 pip install -r requirements.txt
 

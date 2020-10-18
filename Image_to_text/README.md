@@ -10,6 +10,7 @@
     - python3 image-to-text.py "path to image"
 
 - Considering an example :
+
 - This is the image 
 ![Image](assets/image.PNG)
 

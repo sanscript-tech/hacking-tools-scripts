@@ -10,7 +10,7 @@
 
  
  ## Brief: 🎏
-Collection of awesome scripts and hacking tools from basic to advance with hacking task scripts. Contributing to this project will help you learn open source development and collaborations.
+Collection of awesome scripts and hacking tools from basic to advance. Contributing to this project will help you learn open source development and collaborations.
 
 
  ## Overview 🎃

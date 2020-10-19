@@ -36,9 +36,7 @@ def write_content(hashed_content):
   new_file=open('Hased data.txt','w')
   new_file.write(hashed_content)
   new_file.close()
-
-
-
+  print("Done writing data to file hash data.txt")
 
 if __name__ == "__main__":
     help()

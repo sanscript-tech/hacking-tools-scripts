@@ -1,6 +1,6 @@
 ## A python script to check whether the password is strong or not
 
-# Requirements for a strong password
+## Requirements for a strong password
 
 - Minimum 8 characters.
 - The alphabets must be between [a-z]

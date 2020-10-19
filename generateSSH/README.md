@@ -19,3 +19,7 @@ where it should be sent to:
 
 You should at least set `--user`, `--file`, and `--host`.  
 If the key-file does not exist yet, a new key will be generated.
+
+Example(from the folder where the script is):
+Set permissions: sudo chmod +x generateSSH.sh
+Create key-pair(please refer to the list above for all the possible options): ./generateSSH.sh --user bob --host myhost

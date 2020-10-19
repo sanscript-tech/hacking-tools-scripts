@@ -23,3 +23,7 @@ It will store all the hashed data into a new text file called as **Hased data.tx
 * Enter hashing algorithm that you want to hash
 
 * A file with name hash data.txt with hashed content will be saved in same directory 
+
+### Output file
+
+![output](https://user-images.githubusercontent.com/48166328/96407352-cfc39980-11fe-11eb-989e-5fc5036e828b.png)

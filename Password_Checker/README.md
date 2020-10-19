@@ -8,7 +8,7 @@
 - The entered password should have at least one numeral
 - The entered password should have at least one of the symbols $@#_*
 
-##Running the script in UNIX
+## Running the script in UNIX
 - open Password_Checker folder in terminal
 - Run the following commands
 

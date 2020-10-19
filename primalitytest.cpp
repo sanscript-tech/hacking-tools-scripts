@@ -14,13 +14,13 @@ return true;
 int main()
 {
 int num,t;
-cin>>t;// no of test cases
+cin>>t;// enter the number of test cases
 while(t--)
 {
 cin>>num;
-if(isprime(num))
-cout<<"yes"<<endl;
-else
-cout<<"no"<<endl;
+if(isprime(num)) // if number is prime.
+cout<<"yes"<<endl;// return yes
+else 
+cout<<"no"<<endl; // otherwise return no.
 }
 }

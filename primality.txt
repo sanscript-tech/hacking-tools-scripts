@@ -1,4 +1,5 @@
 The time complexity of this program is O(sqrt(n)).
+space complxity is O(1).
 sample input and output
 2
 4

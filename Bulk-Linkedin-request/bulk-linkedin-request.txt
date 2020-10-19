@@ -1,0 +1,21 @@
+Code for accepting BUlk request
+
+STEP 1: Go to the Linkdedin Page
+
+STEP 2: Launch Developer Tools in your Chrome browser
+
+Go to your Chrome , and under the Developer Tools. For Windows / Mac , you can press F12 function key. Alternatively the short cut keys for Windows is “Control + Alt + I”, for Mac it is “Option + Command + I”. If you prefer to use the mouse instead, point to the hamburger menu (the 3 dots) on the Chrome top right corner. Click on it and the Developer Tools is in here
+
+STEP 3: Select the Console in Developer Tools
+
+STEP 4: If you want to accept all invitations , input this in the console
+
+var x = document.querySelectorAll('button.artdeco-button--secondary'); for (var i=0 ; i<x.length; i++) x[i].click();
+
+This will accept all your invitations
+
+STEP 4: If you want to reject all invitations , input this in the console
+
+var x = document.querySelectorAll('button.artdeco-button--tertiary'); for (var i=0 ; i<x.length; i++) x[i].click();
+
+This will reject all your invitations

@@ -1,4 +1,15 @@
 def modular_exponentiation(base, power, modulus_to):
+    """This function uses the recursive approach to
+       perform modular exponentiation.
+
+    Args:
+        base (int): The number used for the base value of the expression.
+        power (int): The number choosed for power value of the expression.
+        modulus_to (int): The number used to take modulus of the expression.
+
+    Returns:
+        result(int): The evaluated value of modular exponentiaion.
+    """
 
     # Base Cases for recursion
     if (base == 0):

@@ -17,6 +17,12 @@ chmod +x password_checker.py
 ./password_check.py
 
 ```
+## OUTPUT
+![Image](output_password_checker.png)
+
+
+
+```
 
 
 

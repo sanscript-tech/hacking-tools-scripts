@@ -12,25 +12,25 @@ def modular_exponentiation(base, power, modulus_to):
     """
 
     # Base Cases for recursion
-    if (base == 0):
+    if (base == 0): # This reduces computation if base is 0.
         return 0
-    if (power == 0):
+    if (power == 0): # This reduces computation if power is 0.
         return 1
-    if (modulus_to == 1):
+    if (modulus_to == 1): # This reduces computation if modulus_to is 1.
         return 0
 
     # Recursive cases for recursion
-    # If power is Even
     result = 0
-    if (power % 2 == 0):
-        result = modular_exponentiation(base, power / 2, modulus_to)
-        result = (result * result) % modulus_to
+    if (power % 2 == 0): # To check if the power is even
+        result = modular_exponentiation(base, power / 2, modulus_to) # Recursive call if power/2
+        result = (result * result) % modulus_to # Storing the squared result value's mod back into result
 
-    # If power is Odd
-    else:
-        result = base % modulus_to
+    else: # For odd power values
+        result = base % modulus_to # Mod of the base value
+        # In the below line the function has been called recursively and successive mods have been performed
+        # with reducing values of power by a factor of 1
         result = (result * modular_exponentiation(base, power - 1,
-                                                  modulus_to) % modulus_to) % modulus_to
+                                                  modulus_to) % modulus_to) % modulus_to 
     return ((result + modulus_to) % modulus_to)
 
 

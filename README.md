@@ -21,6 +21,11 @@ Collection of awesome scripts and hacking tools from basic to advance. Contribut
 
  ## Overview 🎃
   This project is mainly ensured to build in an open source community to help the people of our country grow and develop themselves.
+  
+ 
+## Tech stacks used 🛴
+
+**Any Scripting Language**
 
 
  ### This project is under AOS 2020 (Autumn open source program) under Sanscript, India .🎉🎊
@@ -57,11 +62,6 @@ For example:
 ```
 git clone https://github.com/sanscript-tech/hacking-tools-scripts
 ```
-
-## Tech stacks used 🛴
-
-**Any Scripting Language**
-
 
 ## Create a branch ⚓
 

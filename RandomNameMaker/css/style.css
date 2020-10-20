@@ -1,0 +1,25 @@
+.header{
+display: flex;
+justify-content: center;
+align-items: center;
+color: blueviolet;
+}
+
+button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    size: 50px;
+    padding: 10px;
+    font-size: 10px;
+    background: burlywood;
+    color: white;
+}
+.btn{
+    margin-left: 500px;
+}
+#displayName{
+    margin-top: 70px;
+    font-size: 30px;
+    color: red;
+}

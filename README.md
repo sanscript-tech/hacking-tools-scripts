@@ -15,7 +15,7 @@ Autumn of Open Source, 2020, is an Open Source Program organized by [**Sanscript
  ## Brief: 🎏
 Collection of awesome scripts and hacking tools from basic to advance. Contributing to this project will help you learn open source development and collaborations.
 
-<p  align="center"><img src="https://media.giphy.com/media/Rje6bsoJVORnLBfZwP/giphy.gif" alt="Logo" width="200" height="200"> <img src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif" width="200" height="200">
+<p  align="center"><img src="https://media.giphy.com/media/Rje6bsoJVORnLBfZwP/giphy.gif" alt="Logo" width="300" height="300"> <img src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif" width="300" height="300">
 
 
 

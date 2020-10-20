@@ -10,6 +10,7 @@ Go to your Chrome , and under the Developer Tools. For Windows / Mac , you can p
 
 
 4. Open console as shown below.
+![endpoint](https://github.com/Tejas1510/hacking-tools-scripts/blob/main/Bulk-Linkedin-request/images/console.png)
 
 ![endpoint](https://github.com/SANKET7738/random/blob/master/bulk_linkedin_requests/demo-imgs/endpoint.png)
 

@@ -10,7 +10,7 @@
     <img src="https://avatars3.githubusercontent.com/t/4187434?s=280&v=4" alt="Logo">
   </a>
 
-Autumn of Open Source, 2020, is an Open Source Program organized by [**Sanscript India**](https://sanscript.tech) to spread awareness and promote the culture of Open Source Projects development among beginners and youth. The program will continue for a month in which all participants will contribute at their level of expertise. There will be highly skilled and experienced **Project Leaders*** and **Mentors** who will guide participants to contribute to Open Source Projects. In the end, participants who have performed well, will be announced as **winners**, and **rewards** will be distributed, including **internship** opportunities.
+Autumn of Open Source, 2020, is an Open Source Program organized by [**Sanscript India**](https://sanscript.tech) to spread awareness and promote the culture of Open Source Projects development among beginners and youth. The program will continue for a month in which all participants will contribute at their level of expertise. There will be highly skilled and experienced ***Project Leaders*** and ***Mentors*** who will guide participants to contribute to Open Source Projects. In the end, participants who have performed well, will be announced as **winners**, and **rewards** will be distributed, including **internship** opportunities.
  
  ## Brief: 🎏
 Collection of awesome scripts and hacking tools from basic to advance. Contributing to this project will help you learn open source development and collaborations.

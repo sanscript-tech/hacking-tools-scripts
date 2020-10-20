@@ -1,9 +1,0 @@
-The time complexity of this program is O(sqrt(n)).
-sample input and output
-2
-4
-5
-
-yes
-no
-yes.

@@ -1,7 +1,7 @@
 # Script to scrape pdf
 
 ## Overview:
-- A beginner friendly script to scrape pdf. You can easily get document info sunch as creator , crceation_date and no. of pages. Extract as many pages as you want.
+- A beginner friendly script to scrape pdf. You can easily get document info sunch as creator , creation_date and no. of pages. Extract as many pages as you want.
 
 
 ### Installing required libraries

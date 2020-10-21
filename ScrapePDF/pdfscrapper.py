@@ -1,7 +1,8 @@
 # import PyPDF2 library
 import PyPDF2 as p2
 
-PDFfile = open("File path here.pdf", "rb")
+pdffile = input("Enter path to pdf file you want to scrape: \n")
+PDFfile = open(pdffile, "rb")
 pdfread = p2.PdfFileReader(PDFfile)
 
 
@@ -24,6 +25,7 @@ print(x.extractText())
 
 
 # Extract entire pdf
+print("---------ENTIRE PDF----------")
 i = 0
 while i<pdfread.getNumPages():
     pageinfo = pdfread.getPage(i)

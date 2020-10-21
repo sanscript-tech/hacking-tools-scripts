@@ -12,4 +12,16 @@
 
 - Direct to the ScapePDF folder in Command prompt and type the following command:  
 
-python pdfscrapper.py
+`` python pdfscrapper.py ``
+
+- After this you have to enter the path of the pdf file.
+- Ex: C:/Users/Admin/Desktop/sample.pdf
+- You will recieve information  about the pdf like who created it and when it was created 
+- After that you will recieve scrapped text from pdf
+
+### Example Output
+
+<p align = "center">
+	<img src="ex.png" alt="Output">
+</p>
+

@@ -12,7 +12,7 @@ The python command for shutting down and restart are as follows, "shutdown /s /t
  
  ### Restart:
  <img src="ss3.jpg" align="center">
- <img src="WhatsApp Image 2020-10-21 at 10.28.35 PM.jpeg" align="center">
+ <img src="WhatsApp Image 2020-10-21 at 10.28.35 PM.jpeg" align="center" height="100 px">
  
  ### Exit:
  <img src="ss2.jpg" align="center">

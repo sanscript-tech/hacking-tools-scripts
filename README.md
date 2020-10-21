@@ -10,6 +10,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/sanscript-tech/hacking-tools-scripts?style=flat-square)](https://github.com/sanscript-tech/hacking-tools-scripts/network)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/sanscript-tech/hacking-tools-scripts?color=green&style=flat-square)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/sanscript-tech/hacking-tools-scripts?color=red&style=flat-square)
+[![GitHub license](https://img.shields.io/github/license/sanscript-tech/hacking-tools-scripts)](https://github.com/sanscript-tech/hacking-tools-scripts/blob/main/LICENSE)
 
 
 ## Autumn of Open Source AOS 2020
@@ -37,9 +38,6 @@ Collection of awesome scripts and hacking tools from basic to advance. Contribut
 
 
  ### This project is under AOS 2020 (Autumn open source program) under Sanscript, India .🎉🎊
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-
 
 
  ## How to start ? 🎪

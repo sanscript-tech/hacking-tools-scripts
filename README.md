@@ -4,6 +4,14 @@
 [![forthebadge](https://forthebadge.com/images/badges/thats-how-they-get-you.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 
+<br>
+
+[![GitHub issues](https://img.shields.io/github/issues/sanscript-tech/hacking-tools-scripts?style=flat-square)](https://github.com/sanscript-tech/hacking-tools-scripts/issues)
+[![GitHub forks](https://img.shields.io/github/forks/sanscript-tech/hacking-tools-scripts?style=flat-square)](https://github.com/sanscript-tech/hacking-tools-scripts/network)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/sanscript-tech/hacking-tools-scripts?color=green&style=flat-square)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/sanscript-tech/hacking-tools-scripts?color=red&style=flat-square)
+
+
 ## Autumn of Open Source AOS 2020
 <p align="center">
   <a href="https://sanscript.tech/">

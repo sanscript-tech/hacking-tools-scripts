@@ -74,7 +74,8 @@ def crawl(url, max_urls=50):
         crawl(link, max_urls=max_urls)
 
 if __name__ == "__main__":
-    crawl("https://www.geeksforgeeks.org/how-to-select-a-random-element-from-array-in-javascript/")
+    website =input("Please Enter the website which you want to scrapp : ")
+    crawl(website)
     print("[+] Total External links:", len(external_urls))
     print("[+] Total Internal links:", len(internal_urls))
     print("[+] Total:", len(external_urls) + len(internal_urls))

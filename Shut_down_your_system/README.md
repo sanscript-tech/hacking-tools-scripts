@@ -15,3 +15,7 @@ The python command for shutting down and restart are as follows, "shutdown /s /t
  ### Exit:
  <img src="ss2.jpg" align="center">
  
+ ### Invalid Choice:
+ <img src="ss4.jpg" align="center">
+ 
+  

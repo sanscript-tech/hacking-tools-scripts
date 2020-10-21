@@ -121,3 +121,14 @@ Now submit the pull request.
 
 Soon we will be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
+## Project Maintainers 
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/tejan-singh"><img src="https://avatars2.githubusercontent.com/u/50990883?s=460&u=17dc74fae6985b2e189377cd4645ac685f932270&v=4" width="100px;" alt=""/><br /><sub><b>Tejan Singh</b></sub></a></td>
+    <td align="center"><a href="https://github.com/yashaswibiyahut"><img src="https://avatars1.githubusercontent.com/u/32020835?s=400&u=2bc1c105d1ddba1c710afd7792941ba25d0a78dd&v=4" width="100px;" alt=""/><br /><sub><b>Yashaswi Biyahut</b></sub></a></td>
+    <td align="center"><a href="https://github.com/SANKET7738"><img src="https://avatars2.githubusercontent.com/u/60286107?s=460&u=17bfa4a98b6472549ce7bcb025b861c8d653426d&v=4" width="100px;" alt=""/><br /><sub><b>SANKET MHATRE</b></sub></a></td>
+    <td align="center"><a href="https://github.com/balapriyac"><img src="https://avatars1.githubusercontent.com/u/47279635?s=400&u=f5166ac287b4feceab836d08b5e8766932de84da&v=4" width="100px;" alt=""/><br /><sub><b> Bala Priya</b></sub></a></td>
+  </tr>
+</table>
+

@@ -1,13 +1,20 @@
+# Colorama helps adding colors to the terminal output
+
 from colorama import Fore, init
 
 init(autoreset=True)
 
-feet, inches = map(int, input(Fore.CYAN + "\nEnter height in feet and inches (example 5'3''): ")[:-2].split("'"))
+# Getting Height and Weight of User from the input
+
+height = float(input(Fore.CYAN + "\nEnter your height in metres: "))
 weight = float(input(Fore.CYAN + "Enter your weight in kgs: "))
 
-height = float(feet*0.3048 + inches*0.0254)
+# Calculating BMI
+
 bmi = round(weight / (height*height), 2)
 print("\nYour BMI is: ", bmi)
+
+# Interpreting the result based on value of BMI
 
 if bmi<15.00:
 	print(Fore.RED + "\nYou are very severely underweight!!!\n")

@@ -10,6 +10,6 @@ if choice == 1:
 elif choice==2:
     os.system("shutdown /r /t 1")
 elif choice==3:
-    exit();
+    exit()
 else:
     print('Invalid choice')

@@ -17,7 +17,7 @@
 
 * Demo :
 
-![](./1.png)
+![](./1.jpg)
 
 * Yay 😀 , your pdf file is now converted to an image file 🙌 ! 
 

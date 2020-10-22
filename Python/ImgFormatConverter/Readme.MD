@@ -33,7 +33,7 @@ python imageconverter.py
 
 After you run the above step the following window will open
 
-![endpoint](https://github.com/Tejas1510/hacking-tools-scripts/blob/main/Python/ImgFormatConverter/images/image1.png)
+![endpoint](https://github.com/Tejas1510/hacking-tools-scripts/blob/imgconverter/Python/ImgFormatConverter/images/image1.png)
 
 ### Step 3: Click on select Img button
 
@@ -41,7 +41,7 @@ After you run the above step the following window will open
 you will be taken to any folder where you can select any image file
 ```
 
-![endpoint](https://github.com/Tejas1510/hacking-tools-scripts/blob/main/Python/ImgFormatConverter/images/image2.png)
+![endpoint](https://github.com/Tejas1510/hacking-tools-scripts/blob/imgconverter/Python/ImgFormatConverter/images/image2.png)
 
 ### Step 4: Click on Covert Img to JPG button
 
@@ -49,7 +49,7 @@ you will be taken to any folder where you can select any image file
 Congo you are done a image with .jpg extension will we placed in your desired folder and desired name
 ```
 
-![endpoint](https://github.com/Tejas1510/hacking-tools-scripts/blob/main/Python/ImgFormatConverter/images/image3.png)
+![endpoint](https://github.com/Tejas1510/hacking-tools-scripts/blob/imgconverter/Python/ImgFormatConverter/images/image3.png)
 
 ![built with love](https://forthebadge.com/images/badges/built-with-love.svg)
 

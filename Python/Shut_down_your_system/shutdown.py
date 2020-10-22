@@ -1,15 +1,15 @@
-"""HTTP handler to shut down the notebook server.
-"""
-from tornado import web, ioloop
-from notebook.base.handlers import IPythonHandler
+'''
+Python Script to Shutdown/Restart your computer
+'''
 
-class ShutdownHandler(IPythonHandler):
-    @web.authenticated
-    def post(self):
-        self.log.info("Shutting down on /api/shutdown request.")
-        ioloop.IOLoop.current().stop()
-
-
-default_handlers = [
-    (r"/api/shutdown", ShutdownHandler),
-]
+import os;
+print("1. Shutdown Computer\n2. Restart Computer\n3. Exit");
+choice = int(input("\nEnter your choice: "));
+if choice == 1:
+    os.system("shutdown /s /t 1");
+elif choice==2:
+    os.system("shutdown /r /t 1");
+elif choice==3:
+    exit();
+else:
+    print('Invalid choice')

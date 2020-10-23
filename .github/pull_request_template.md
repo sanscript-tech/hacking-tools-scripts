@@ -1,5 +1,5 @@
 ### Your checklist for this pull request
-🚨Please review the [guidelines for contributing](https://github.com/sanscript-tech/hacking-tools-scripts/issues/130) to this repository.<br><br>
+🚨Please review the [guidelines for contributing](https://github.com/sanscript-tech/hacking-tools-scripts/blob/main/CONTRIBUTING.md) to this repository.<br><br>
 
 Parent issue: #("mention issue no.")<br>
 

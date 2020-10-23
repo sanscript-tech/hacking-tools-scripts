@@ -22,9 +22,9 @@
 Autumn of Open Source, 2020, is an Open Source Program organized by [**Sanscript India**](https://sanscript.tech) to spread awareness and promote the culture of Open Source Projects development among beginners and youth. The program will continue for a month in which all participants will contribute at their level of expertise. There will be highly skilled and experienced ***Project Leaders*** and ***Mentors*** who will guide participants to contribute to Open Source Projects. In the end, participants who have performed well, will be announced as **winners**, and **rewards** will be distributed, including **internship** opportunities. All participants will recieve a **contribution certificate**.
 
 ## How to participate and contribute?
-Register as a participant on [**Sanscript India**](https://sanscript.tech) website and start contributing.
-
-## Contributions will end on 20 November 2020
+### Register as a participant on [**Sanscript India**](https://sanscript.tech) website and start contributing.<br>
+### Follow contribution guidelines mentioned [here.](https://github.com/sanscript-tech/hacking-tools-scripts/issues/130)<br>
+### Contributions will end on 20 November 2020.
  
  ## Brief about project: 🎏
 Collection of awesome scripts and hacking tools from basic to advance. Contributing to this project will help you learn open source development and collaborations.

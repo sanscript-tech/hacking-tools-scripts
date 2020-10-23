@@ -22,6 +22,7 @@
 
 **Pull Requests review criteria:**
 - Please mention parent issue no. with "**#**" in the description while sending a pull request.
+- Your code must be original, written by you not copied from other resources.
 - You must **comment** on your code where necessary.
 - Add a **readme** file which must contain:-
   - description of your issue you have solved.

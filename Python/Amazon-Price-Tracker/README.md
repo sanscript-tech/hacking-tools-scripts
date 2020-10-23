@@ -1,4 +1,4 @@
-## Amazon Price Tracker ##
+## Amazon Price Tracker 
 - This script built in Python is an Amazon Price Tracker. 
 - The user enters :
     - The URL of the product of which he would like the track the price of.
@@ -8,7 +8,7 @@
 - If the price of the product is equal to or below the user's budget, the user receives an email confirmation.
 - The price of the product is logged into a file named price_logger.txt every 12 hours.
 
-## Working and Usage ##
+## Working 
 - The BeautifulSoup library is used to scrape the price of the product from the Amazon site.
 - On Amazon, the prices of products are either expressed as a range or as a single number.
 
@@ -44,3 +44,17 @@
 - The prices are also logged into the file price_logger.txt as shown, so the user will have an account of the changes the price underwent.
 
 ![Image](assets/change.png)
+
+![Image](assets/change.png)
+
+## Usage
+- Requirements
+  - Requests 
+  - BeautifulSoup
+  - smptplib
+ 
+ - The user is prompted to enter the URL of the price of the product that needs to be tracked
+ - The user is also prompted to enter the budget
+ - The email credentials of the user are asked as an email is sent when the price of the product is within the budget
+ - For this the email settings must be set to less secure mode
+ - The changes observed in the price of the product are also logged for reference

@@ -1,15 +1,46 @@
-# Contributing Guidelines 🌟
+### Welcome to Autumn of Open Source 2020! 🤗 (Registrations still open)
 
-✅ Issues will be assigned on a first come first serve basis.</br>
-✅ Max 2 issues can be assigned to a single individual.</br>
-✅ Mention the language you want to work in while asking for issues.</br>
-✅ Make a separate branch for each issue, use appropriate branch names for the same.</br>
-✅ Write clean and easy to understand code.</br>
-✅ Provide comments wherever necessary.</br>
-✅ Add a README.md to the folder explaining the working of the script.</br>
-✅ Add an appropriate screenshot of output or demo in the README.</br>
-✅ Add a "requirements.txt" file if dependencies are required.</br>
-✅ Perform a self-review before submitting the PR and wait for the mentors to review it for merge</br>
+**For participation, please visit** : https://aos.sanscript.tech/
+
+**Here are some guidelines you need to follow for contributions.**
+
+- Please **register** for the event to contribute and join our slack channel  **(_mandatory_)**. You will receive a confirmation mail and link for joining slack channel through the mail.
+- Each participant will be assigned **2 issues (max)** at a time to work.
+- Participants have **7 days** to complete issues.
+- Participants have to **comment on issues** they would like to work on, and mentors will assign you.
+- Issues will be assigned on a **first-come, first-serve basis.**
+- Participants can also open their issues, but it needs to be verified and labelled by a mentor.
+- Before opening a new issue, please check if it is already created or not.
+- Issues labelled with **AOS2020** are only eligible.
+- Pull requests will be merged after being reviewed by a mentor.
+- Please **specify your full name** on your GitHub profile for review.
+- Create a pull request from **a branch** not from Master.
+- You will be **scored** based on the level of issues you have solved.
+- It might take a day to review your pull request. Please have patience and be nice.
+- We all are here to learn. You are allowed to make mistakes. That's how you learn, right!
+- Reach out to mentors if you need help through the slack channel.
+
+**Pull Requests review criteria:**
+- Please mention parent issue no. with "**#**" in the description while sending a pull request.
+- You must **comment** on your code where necessary.
+- Add a **readme** file which must contain:-
+  - description of your issue you have solved.
+  - use case.
+  - sample input and output.
+  - for issues labelled with medium or high, please add relevant output images.
+  - please add all the images in a separate folder to make you contribution look clean.
+
+_The Event will end on **20 November 2020**.
+We will provide a **certificate** of contribution to the participant with at least **one pull request merged.**_
+
+**Mentors/Maintainers of the project:-** 
+- @tejan-singh 
+- @yashaswibiyahut 
+- @balapriyac 
+- @SANKET7738
+
+**_For queries regarding registration, participation, certification and rewards, reach out for help at_ 
+help@sanscript.tech**
 
 ## Fork this repository 🚀
 

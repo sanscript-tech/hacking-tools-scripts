@@ -1,4 +1,9 @@
-# Hacking-Tools-Scripts ♠️
+<p align="center">
+  <a href="https://github.com/sanscript-tech/hacking-tools-scripts">
+    <img src="https://www.flaticon.com/svg/static/icons/svg/44/44672.svg" alt="Logo" width = "150">
+    </a>
+<h1 align = "center">Hacking-Tools-Scripts</h1>
+
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/thats-how-they-get-you.svg)](https://forthebadge.com)
@@ -12,6 +17,7 @@
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/sanscript-tech/hacking-tools-scripts?color=red&style=flat-square)
 [![GitHub license](https://img.shields.io/github/license/sanscript-tech/hacking-tools-scripts)](https://github.com/sanscript-tech/hacking-tools-scripts/blob/main/LICENSE)
 
+⭐ Star us on GitHub — it helps!
 
 ## Autumn of Open Source AOS 2020
 <p align="center">
@@ -26,36 +32,31 @@ Autumn of Open Source, 2020, is an Open Source Program organized by [**Sanscript
 ### Follow contribution guidelines mentioned [here.](https://github.com/sanscript-tech/hacking-tools-scripts/blob/main/CONTRIBUTING.md)<br>
 ### Contributions will end on ***20 November 2020***.
  
- ## Brief about project: 🎏
+ ## Brief about project:
 Collection of awesome scripts and hacking tools from basic to advance. Contributing to this project will help you learn open source development and collaborations.
 
 <p  align="center"><img src="https://media.giphy.com/media/Rje6bsoJVORnLBfZwP/giphy.gif" alt="Logo" width="300" height="300"> <img src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif" width="300" height="300">
 
 
-
- ## Overview 🎃
-  This project is mainly ensured to build in an open source community to help the people of our country grow and develop themselves.
+## Overview 
+This project is mainly ensured to build in an open source community to help the people of our country grow and develop themselves.
   
- 
-## Tech stacks used 🛴
+## Tech stacks used 
 
 **Any Scripting Language**
 
+### This project is under AOS 2020 (Autumn open source program) under Sanscript, India.
 
- ### This project is under AOS 2020 (Autumn open source program) under Sanscript, India .🎉🎊
-
-
- ## How to start ? 🎪
-
+## How to start ? 
 
 #### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
 
-## Fork this repository 🚀
+## Fork this repository 
 
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
-## Clone the repository 🏁
+## Clone the repository 
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
 
@@ -74,7 +75,7 @@ For example:
 git clone https://github.com/sanscript-tech/hacking-tools-scripts
 ```
 
-## Create a branch ⚓
+## Create a branch 
 
 Change to the repository directory on your computer (if you are not already there):
 
@@ -94,7 +95,7 @@ For example:
 git checkout -b dev_username
 ```
 
-## Make necessary changes and commit those changes 🚏
+## Make necessary changes and commit those changes 
 
 Do the necessary changes.
 
@@ -114,7 +115,7 @@ git commit -m "(Add your message here)"
 
 replacing `<Add your message here>` with your message.
 
-## Push changes to GitHub 🪂
+## Push changes to GitHub 
 
 Push your changes using the command `git push`:
 

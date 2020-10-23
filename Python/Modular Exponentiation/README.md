@@ -6,7 +6,7 @@ It is an effective way of calculating modulus values of extremely large exponent
 You can refer to this amazing video to understand Modular exponentiation better:-
 [Modular Exponentiation](https://www.youtube.com/watch?v=EHUgNLN8F1Y)
 
-I have used teo different approaches to solve this problem:
+I have used two different approaches to solve this problem:
 
 1. iterative
 2. recursive

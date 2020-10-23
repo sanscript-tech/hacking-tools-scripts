@@ -20,3 +20,5 @@ Select all that applies:<br>
 [ ]I have added relevent screenshots if necessary<br>
 [ ]I have made corresponding changes to the documentation<br>
 [ ]My changes generate no new warnings<br>
+
+### 💔Thank you!

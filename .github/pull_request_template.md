@@ -15,6 +15,7 @@ Select all that applies:<br>
 
 [ ]My code follows the style guidelines(Clean Code) of this project<br>
 [ ]I have performed a self-review of my own code<br>
+[ ]I have used consistent code conventions and clear function/method/variable names<br>
 [ ]I have commented on my code, particularly in hard-to-understand areas<br>
 [ ]I have created a helpful and easy to understand README.md which contains description, requirements and use case.<br>
 [ ]I have added relevent screenshots if necessary<br>

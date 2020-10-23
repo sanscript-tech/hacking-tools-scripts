@@ -140,4 +140,6 @@ If you go to your repository on GitHub, you'll see a `Compare & pull request` bu
 
 Now submit the pull request.
 
-<img src="https://user-images.githubusercontent.com/56690856/96427954-cfd29200-121c-11eb-90f7-1f4ea2f8342f.png">
+<img src="https://user-images.githubusercontent.com/56690856/96427954-cfd29200-121c-11eb-90f7-1f4ea2f8342f.png"><br><br>
+
+Soon we will be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.

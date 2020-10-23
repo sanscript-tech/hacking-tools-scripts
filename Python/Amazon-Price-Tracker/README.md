@@ -12,35 +12,35 @@
 - The BeautifulSoup library is used to scrape the price of the product from the Amazon site.
 - On Amazon, the prices of products are either expressed as a range or as a single number.
 
-![Image](single.png)
+![Image](assets/single.png)
 
 
-![Image](range.png)
+![Image](assets/range.png)
 
 - If the budget is within the range, an email will be sent.
 - In the script, headers need to be used to make the get request to the Amazon site.
 - In place of headers, the user must replace it with the result of **my user agent** must be used instead.
 
-![Image](myagent.png)
+![Image](assets/myagent.png)
 
 - The Email settings of the user must be configured to operate on less secure mode to facilitate the sending of emails.
 
-![Image](lesssecure.png)
+![Image](assets/lesssecure.png)
 
 - After this, the script can be run.
 
-![Image](mail.png)
+![Image](assets/mail.png)
 
-![Image](email.png)
+![Image](assets/email.png)
 
 - Using this as an example
 
-![Image](single.png)
+![Image](assets/single.png)
 
 - The user enters 700 rupees as the budget, as the price is lesser than the budget the following email is sent, else the program continues to run till the condition is satisfied.
 
-![Image](confirm.png)
+![Image](assets/confirm.png)
 
 - The prices are also logged into the file price_logger.txt as shown, so the user will have an account of the changes the price underwent.
 
-![Image](change.png)
+![Image](assets/change.png)

@@ -27,16 +27,10 @@
 
 Autumn of Open Source, 2020, is an Open Source Program organized by [**Sanscript India**](https://sanscript.tech) to spread awareness and promote the culture of Open Source Projects development among beginners and youth. The program will continue for a month in which all participants will contribute at their level of expertise. There will be highly skilled and experienced ***Project Leaders*** and ***Mentors*** who will guide participants to contribute to Open Source Projects. In the end, participants who have performed well, will be announced as **winners**, and **rewards** will be distributed, including **internship** opportunities. All participants will recieve a **contribution certificate**.
 
-## How to participate and contribute?
-### Register as a participant on [**Sanscript India**](https://sanscript.tech) website and start contributing.***(Registrations are Open!!)***<br>
-### Follow contribution guidelines mentioned [here.](https://github.com/sanscript-tech/hacking-tools-scripts/blob/main/CONTRIBUTING.md)<br>
-### Contributions will end on ***20 November 2020***.
- 
  ## Brief about project:
 Collection of awesome scripts and hacking tools from basic to advance. Contributing to this project will help you learn open source development and collaborations.
 
 <p  align="center"><img src="https://media.giphy.com/media/Rje6bsoJVORnLBfZwP/giphy.gif" alt="Logo" width="300" height="300"> <img src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif" width="300" height="300">
-
 
 ## Overview 
 This project is mainly ensured to build in an open source community to help the people of our country grow and develop themselves.
@@ -44,6 +38,12 @@ This project is mainly ensured to build in an open source community to help the 
 ## Tech stacks used 
 
 **Any Scripting Language**
+
+## How to participate and contribute?
+### Register as a participant on [**Sanscript India**](https://sanscript.tech) website and start contributing.***(Registrations are Open!!)***<br>
+### Follow contribution guidelines mentioned [here.](https://github.com/sanscript-tech/hacking-tools-scripts/blob/main/CONTRIBUTING.md)<br>
+### Contributions will end on ***20 November 2020***.
+ 
 
 ### This project is under AOS 2020 (Autumn open source program) under Sanscript, India.
 

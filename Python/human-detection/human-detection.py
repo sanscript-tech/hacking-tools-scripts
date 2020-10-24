@@ -3,7 +3,8 @@ def detect():
     HOGCV = cv2.HOGDescriptor()
     HOGCV.setSVMDetector(cv2.HOGDescriptor_getDefaultPeopleDetector())
     # Read the input image
-    frame = cv2.imread('images/sample.jpg')
+    PATH = input('Please enter the path of the image->')
+    frame = cv2.imread(PATH)
     #Convert to gray scale
     bounding_box_cordinates, weights =  HOGCV.detectMultiScale(frame, winStride = (4, 4), padding = (8, 8), scale = 1.03)
     person = 1

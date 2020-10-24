@@ -18,7 +18,7 @@ Parent issue: #("mention issue no.")
 * [ ] I have used consistent code conventions and clear function/method/variable names.
 * [ ] I have commented on my code, particularly in hard-to-understand areas.
 * [ ] I have created a helpful and easy to understand README.md which contains description, requirements and use case.
-* [ ] I have added relevent screenshots if necessary.
+* [ ] I have added relevent screenshots/images if necessary in a seperate folder.
 * [ ] I have added my work in respective language folder.
 * [ ] My changes generate no new warnings.
 

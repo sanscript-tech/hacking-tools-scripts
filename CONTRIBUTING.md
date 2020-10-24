@@ -5,6 +5,7 @@
 **Here are some guidelines you need to follow for contributions.**
 
 - Please **register** for the event to contribute and join our slack channel  **(_mandatory_)**. You will receive a confirmation mail and link for joining slack channel through the mail.
+- Please **specify your full name** on your GitHub profile for review.
 - Each participant will be assigned **2 issues (max)** at a time to work.
 - Participants have **7 days** to complete issues.
 - Participants have to **comment on issues** they would like to work on, and mentors will assign you.
@@ -13,7 +14,6 @@
 - Before opening a new issue, please check if it is already created or not.
 - Issues labelled with **AOS2020** are only eligible.
 - Pull requests will be merged after being reviewed by a mentor.
-- Please **specify your full name** on your GitHub profile for review.
 - Create a pull request from **a branch** not from Master.
 - You will be **scored** based on the level of issues you have solved.
 - It might take a day to review your pull request. Please have patience and be nice.

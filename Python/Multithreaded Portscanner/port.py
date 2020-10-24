@@ -70,7 +70,4 @@ def run_scanner(threads, mode):
 print("Enter the mode :\n 1. standardized ports\n 2. reserved ports\n 3. important ports\n 4. input the port")
 mode = int(input())
 thread = int(input("Enter the thread\n"))
-run_scanner(thread,mode)
-
-
-        
+run_scanner(thread,mode)        

@@ -9,8 +9,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/thats-how-they-get-you.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 
-<br>
-
 [![GitHub issues](https://img.shields.io/github/issues/sanscript-tech/hacking-tools-scripts?style=flat-square)](https://github.com/sanscript-tech/hacking-tools-scripts/issues)
 [![GitHub forks](https://img.shields.io/github/forks/sanscript-tech/hacking-tools-scripts?style=flat-square)](https://github.com/sanscript-tech/hacking-tools-scripts/network)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/sanscript-tech/hacking-tools-scripts?color=green&style=flat-square)
@@ -32,18 +30,18 @@ Collection of awesome scripts and hacking tools from basic to advance. Contribut
 
 <p  align="center"><img src="https://media.giphy.com/media/Rje6bsoJVORnLBfZwP/giphy.gif" alt="Logo" width="300" height="300"> <img src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif" width="300" height="300">
 
-## Overview 
+## Overview
 This project is mainly ensured to build in an open source community to help the people of our country grow and develop themselves.
-  
-## Tech stacks used 
+
+## Tech stacks used
 
 **Any Scripting Language**
 
 ## How to participate and contribute?
-### Register as a participant on [**Sanscript India**](https://sanscript.tech) website and start contributing.***(Registrations are Open!!)***<br>
-### Follow contribution guidelines mentioned [here.](https://github.com/sanscript-tech/hacking-tools-scripts/blob/main/CONTRIBUTING.md)<br>
-### Contributions will end on ***20 November 2020***.
- 
+* Register as a participant on [**Sanscript India**](https://sanscript.tech) website and start contributing. ***Registrations are Open!!***
+* Follow contribution guidelines mentioned [here.](https://github.com/sanscript-tech/hacking-tools-scripts/blob/main/CONTRIBUTING.md)
+* Contributions will end on ***20 November 2020***.
+
 
 ### This project is under AOS 2020 (Autumn open source program) under Sanscript, India.
 

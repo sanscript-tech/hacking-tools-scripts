@@ -12,13 +12,18 @@ The aim is to list all the instagram handles that you follow, that don't follow 
 
 `>> pip3 install webdriver-manager`
 
-### **There is a file called `secrets.py` which contains username and password that has to be filled by the user in order to execute the program successfully.**
-
 ### Usage:
 `>> python instagram_bot.py`
 
+### I/O:
+
+```
+Enter Username:$(username)
+
+Enter Password:$(password)
 
 
-
-
-
+output:
+Total unFollowers : $(unfollowers)
+<List of unfollowers account ids comes below>
+```

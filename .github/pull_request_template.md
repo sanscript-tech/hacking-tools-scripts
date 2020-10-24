@@ -19,7 +19,7 @@ Parent issue: #("mention issue no.")
 * [ ] I have commented on my code, particularly in hard-to-understand areas.
 * [ ] I have created a helpful and easy to understand README.md which contains description, requirements and use case.
 * [ ] I have added relevent screenshots if necessary.
-* [ ] I have made corresponding changes to the documentation.
+* [ ] I have added my work in respective language folder.
 * [ ] My changes generate no new warnings.
 
 ### :heart: Thank you!

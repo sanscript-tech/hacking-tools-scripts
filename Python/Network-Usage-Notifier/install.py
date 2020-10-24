@@ -12,10 +12,10 @@ def install(packages):
 
 if __name__ == '__main__':
 
-    from sys import platform
+    import os
 
     install(_all_)
-    if platform == 'windows':
-        install(windows)
-    else:
+    if os.name == 'posix':
         install(posix)
+    else:
+        install(windows)

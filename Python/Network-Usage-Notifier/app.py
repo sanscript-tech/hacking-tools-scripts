@@ -1,9 +1,10 @@
 import psutil
 import time
 import sys
+import os
 
 # Check if the operating system is windows or not.
-IS_WINDOWS = sys.platform == 'windows'
+IS_WINDOWS = os.name != 'posix'
 
 # Check if the user has provided the THRESHOLD or not
 if len(sys.argv) > 1:

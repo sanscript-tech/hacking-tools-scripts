@@ -3,7 +3,7 @@
 * A notification is sent when the usage exceeds a specified limit provided by the user.
 
 ## Executing script
-* `pip install -r requirements.txt`
+* Run this script once: `python install.py`
 * `python app.py <specified limit in MB>`
 * for e.g `python app.py 100`
 

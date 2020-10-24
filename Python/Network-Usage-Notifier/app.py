@@ -1,7 +1,9 @@
 import psutil
-import notify2
 import time
 import sys
+
+# Check if the operating system is windows or not.
+IS_WINDOWS = sys.platform == 'windows'
 
 # Check if the user has provided the THRESHOLD or not
 if len(sys.argv) > 1:
@@ -22,10 +24,15 @@ net_counter = psutil.net_io_counters()
 initial_usage = net_counter.bytes_sent + net_counter.bytes_recv
 
 # Initialize notifications.
-notify2.init(APP_NAME)
-notification = notify2.Notification(APP_NAME, APP_DESC, APP_ICON)
-notification.set_timeout(5000)
-notification.show()
+if IS_WINDOWS:
+    import win10toast
+    notification = win10toast.ToastNotifier()
+else:
+    import notify2
+    notify2.init(APP_NAME)
+    notification = notify2.Notification(APP_NAME, APP_DESC, APP_ICON)
+    notification.set_timeout(5000)
+    notification.show()
 
 # Event loop to check for usage.
 while True:
@@ -37,9 +44,12 @@ while True:
     # Check if usage exceeds THRESHOLD
     if delta_usage/1e+6 >= THRESHOLD:
         # Show notification
-        notification.set_urgency(notify2.URGENCY_CRITICAL)
-        notification.update(NOTIF_TITLE, NOTIF_DESC)
-        notification.show()
+        if IS_WINDOWS:
+            notification.show_toast(NOTIF_TITLE, NOTIF_DESC, APP_ICON, 5, True)
+        else:
+            notification.set_urgency(notify2.URGENCY_CRITICAL)
+            notification.update(NOTIF_TITLE, NOTIF_DESC)
+            notification.show()
 
         # Resey initial network usage.
         initial_usage = current_usage

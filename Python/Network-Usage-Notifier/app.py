@@ -13,7 +13,7 @@ else:
 # Constants to provide notification information.
 APP_NAME = "Network Usage Notifier"
 APP_DESC = f"You will be notified when your network usage exceeds {THRESHOLD}MB"
-APP_ICON = "icon.png"
+APP_ICON = "images/icon.png"
 NOTIF_TITLE = "NETWORK USAGE EXCEEDED!!"
 NOTIF_DESC = f"Network usage exceeded {THRESHOLD}MB"
 

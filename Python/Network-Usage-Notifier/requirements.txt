@@ -1,0 +1,3 @@
+psutil
+notify2
+dbus-python

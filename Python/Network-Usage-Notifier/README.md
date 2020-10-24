@@ -8,3 +8,10 @@
 * for e.g `python app.py 100`
 
 ## Output
+Executing `python app.py 4` gives:
+
+**Init Notification**
+![op_init](op_init.png)
+
+**When usage exceeds specified limit**
+![op_notif](op_notif.png)

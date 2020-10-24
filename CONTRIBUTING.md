@@ -23,13 +23,13 @@
 **Pull Requests review criteria:**
 - Please mention parent issue no. with "**#**" in the description while sending a pull request.
 - You must add your code file into the respective language folder.
-- Your code must be original, written by you not copied from other resources.
+- Your work must be original, written by you not copied from other resources.
 - You must **comment** on your code where necessary.
 - Add a **readme** file which must contain:-
   - description of your issue you have solved.
   - use case.
   - sample input and output.
-  - for issues labelled with medium or high, please add relevant output images.
+  - for issues labelled with medium or high, please add relevant output images in a seperate folder.
   - please add all the images in a separate folder to make you contribution look clean.
 
 _The Event will end on **20 November 2020**.

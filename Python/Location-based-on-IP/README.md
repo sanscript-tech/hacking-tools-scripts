@@ -4,8 +4,8 @@
 
 ## Usage
 - Requirements 
-    - Requests module
-    - JSON module
+    - pip install requests
+    
 - Considering a example 
 
 ![Image](assets/ip.PNG)

@@ -1,4 +1,4 @@
-urllib
+urllib3
 xlwt
 bs4
 datetime

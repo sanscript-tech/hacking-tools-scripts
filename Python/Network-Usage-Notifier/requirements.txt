@@ -1,0 +1,8 @@
+psutil
+
+# For linux/MacOS users install:
+notify2
+dbus-python
+
+# For windows users install:
+win10toast

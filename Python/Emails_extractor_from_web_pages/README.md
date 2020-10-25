@@ -1,5 +1,5 @@
 ## Introduction
-Emails_extractor is a python script wihih eill extract all email in a web page using regular expressions
+Emails_extractor is a python script which will extract all emails in a web page using regular expressions
 This script will crawl through web page and retrive all emails in a web page and store them in a excel sheet
 
 ## Libraries Used

@@ -1,7 +1,7 @@
 # Invisibility cloak
 
 - - - - - - - - - - - - -
-![alt text](https://github.com/TaniaMalhotra/hacking-tools-scripts/blob/invisibility-cloak/Python/invisibility-cloak/images/cloak-gif.gif)
+![alt text](https://github.com/TaniaMalhotra/hacking-tools-scripts/blob/invisible-cloak/Python/invisibility-cloak/images/cloak-gif.gif)
 
 ## About the script
 This script aims to create our own ‘Invisibility Cloak’ using simple computer vision techniques in OpenCV. This script has been written in  in Python because it provides
@@ -30,4 +30,4 @@ Here ```[0,0,255]``` basically refers to the bgr colour of generic red clour. </
 So if you're using another colour, you will have to change the values according to cloak shade.</br>
 
 ## Example output using this script
-<img src="https://github.com/TaniaMalhotra/hacking-tools-scripts/blob/invisibility-cloak/Python/images/invisibility-cloak/output.png" alt="alt text" width="400" height="300">
+<img src="https://github.com/TaniaMalhotra/hacking-tools-scripts/blob/invisible-cloak/Python/invisibility-cloak/images/output.png" alt="alt text" width="400" height="300">

@@ -20,7 +20,7 @@ If you are taking some other cloth, the code will remain the same but with minut
 ```python background-image.py```</br>
 Press 'z' key to capture.</br>
 
-- Next run ```invisible.py```
+- Next run ```invisible.py```</br>
 Red pixels in the image will become invisible and be replaced by background image pixels.</br>
 
 ## Tweaking params a/t your cloth colour

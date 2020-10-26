@@ -7,7 +7,7 @@ Selenium is a very smart package in python with which developer’s can automate
 
 ## Requirements
 
-```pip install selenium```
+```pip install selenium```</br>
 ```pip install webdriver_manager```
 
 ## Steps to use

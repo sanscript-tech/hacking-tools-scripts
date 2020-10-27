@@ -18,4 +18,7 @@ Selenium is a very smart package in python with which developer’s can automate
 - Enter the number of times you wish the message to be sent
 - Wait for a few seconds and see the automation :)
 ```
+## Example output
+Here as seen, the target recepient has received the message 10 times automatically without us needing to type it in the whatsapp text bar.
 
+![alt-text](https://github.com/TaniaMalhotra/hacking-tools-scripts/blob/whatsapp-automation/Python/whatsapp-automation/ezgif.gif)

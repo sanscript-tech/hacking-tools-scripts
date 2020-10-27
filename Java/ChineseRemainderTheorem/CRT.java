@@ -25,10 +25,17 @@ class CRT {
 	public static void main(String args[]) 
 	{ /*Given two arrays div and rem,we need to find out the minimum number 'A' */
     /*,for which when the number of div array is divided it gives the corresponding value present in rem array*/
-		int div[] = {5, 6, 7}; 
-		int rem[] = {1, 3, 2}; 
-		int n = div.length; 
-		System.out.println("A : " + solve(div, rem, n)); //A : 51
+		//Taking input the length of the div array
+		int n=sc.nextInt();
+		int div[] = new int[n];
+		int rem[] =new int[n];
+		for(int i=0;i<n;i++){
+		div[i]=sc.nextInt();
+		}
+		for(int i=0;i<n;i++){
+		rem[i]=sc.nextInt();
+		}
+		System.out.println("A : " + solve(div, rem, n)); //Output
 	} 
 } 
 

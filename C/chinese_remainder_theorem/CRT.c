@@ -59,3 +59,6 @@ int main()
     printf("Minimum number found is %d", result( arr, rem, s));
     return 0;
 }
+
+//time_complexity:O(n^2) {worst}
+//space_complexity:O(n)

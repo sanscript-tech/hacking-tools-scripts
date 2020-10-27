@@ -15,10 +15,13 @@ rep = int(input('Enter number of times message is to be sent : '))
 # Manually need to scan the code
 input('Press any key after scanning')
 
+# selecting the user to send message
 user = driver.find_element_by_xpath('//span[@title = "{}"]'.format(name))
 user.click()
+# waiting for 1 sec
 time.sleep(1)
 # locating the resp classes and elements
+# Please note that the element name is subject to change by whatsapp
 t = driver.find_element_by_class_name("_3uMse")
 time.sleep(1)
 for j in range(rep):

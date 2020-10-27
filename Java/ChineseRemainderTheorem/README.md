@@ -10,4 +10,6 @@ rem: 1 3 2
 51 % 6 =3
 51 % 7 =2
 
+Time Complexity:O(Product of all elements of div array)
+
 -->Objective of CRT is to find the minimum value A,for which when the values divided by A gives the value present in the rem array.

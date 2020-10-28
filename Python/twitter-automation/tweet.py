@@ -34,10 +34,10 @@ class FavRetweetListener(tweepy.StreamListener):
 def main(keywords):
     print("Hii! Please enter the credentials for authenticating the API")
     # entering the API credentials
-    consumer_key = input("Please enter consumer key ")
-    consumer_secret = input("Please enter consumer secret ")
+    consumer_key = input("Please enter API key ")
+    consumer_secret = input("Please enter API secret ")
     access_token = input("Please enter access token ")
-    access_token_secret = input(" Please enter the access token secret")
+    access_token_secret = input(" Please enter the access token secret ")
     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
     auth.set_access_token(access_token, access_token_secret)
     api = tweepy.API(auth, wait_on_rate_limit=True,
@@ -46,9 +46,9 @@ def main(keywords):
         # verifying credentials
         api.verify_credentials()
     except Exception as e:
-        logger.error("Error creating API : ", exc_info=True)
+        logging.getLogger().error("Error creating API : ", exc_info=True)
         raise e
-    logger.info("API is created sussessfully : ")
+    logging.getLogger().info("API is created sussessfully : ")
     # passing api to FavRetweetListener class
     tweepy.Stream(api.auth, FavRetweetListener(api)).filter(track=keywords, languages=["en"])
 

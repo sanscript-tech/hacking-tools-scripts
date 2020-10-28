@@ -1,0 +1,11 @@
+RELEVANCE IN CRYPTOGRAPHY:
+
+In simple words, Chinese remainder theorem will determine a number pp that, when divided by some given 
+divisors, leaves given remainders.
+
+Cyber Security is a hot topic these days. Many complex algorithms are used for cyber security and maintenance of the breach.Chinese remainder theorem plays a big role in important algorithms.Cryptography is a collection of techniques applied for secure online communication.One of widely used method is Encryption.Encryption is a phenomena, in which messages and information are encoded such that only authorized people can access and understand it.
+
+Chinese remainder theorem is used by the experts for implementation in the RSA(Rivest–Shamir–Adleman) 
+cryptosystem, a widely used public-key system for secure data transmission. The optimization for decryption is based on the Chinese remainder theorem, to be precise, it produces and stores values as part of a private key.
+
+Moreover, the theorem is used in secret sharing to assure the impossibility of recovering the secret from a set of shares as long as that set has less than a certain number of elements.

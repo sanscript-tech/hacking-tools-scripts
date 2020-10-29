@@ -33,3 +33,12 @@ pip install pandas
 python3 main.py
 ```
 - The program will run and automatically joins the meeting at the scheduled time
+
+## Use Case
+Enter Timings,meedtingid,meetingpswd in schedule.csv
+![Screenshot 2020-10-29 224216](https://user-images.githubusercontent.com/59971890/97608318-32efd000-1a38-11eb-8f41-2ae1b2d4cb69.png)
+
+Run the program as stated above and zoom window will open up 
+![zoomwindow](https://user-images.githubusercontent.com/59971890/97608594-8eba5900-1a38-11eb-89ea-abc99cf73a05.png)
+
+The meeting will start and end according to the specifications gievn by you.

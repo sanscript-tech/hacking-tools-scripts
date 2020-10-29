@@ -61,12 +61,12 @@ while True:
     now = datetime.now().strftime("%H:%M")
     if now in str(df['timings']):
 
-       row = df.loc[df['timings'] == now]
-       meet_id = str(row.iloc[0,1])
+       row = df.loc[df['timings'] == now]  
+       meet_id = str(row.iloc[0,1])  
        meet_paasword = str(row.iloc[0,2])
        duration = str(row.iloc[0,3])
 
-
+       # calling sign_in funstion and passing requires parameters
        sign_in(meet_id, meet_paasword, duration)
        time.sleep(40)
        print('Signed in, Meeting Started')

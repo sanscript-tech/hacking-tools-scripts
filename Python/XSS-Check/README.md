@@ -9,3 +9,4 @@ A Python Script to exploit XSS Vulnerability of a URL.
 
 ## Example
 
+![image](images/xss-check.png)

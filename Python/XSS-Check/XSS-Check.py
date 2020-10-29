@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 from colorama import Fore, init, Style
+from progress.bar import ChargingBar
 
 init(autoreset=True)
 
@@ -19,7 +20,9 @@ def xss():
     forms = getAllForms(url)
     for form in forms:
         # Getting Payload Scripts for Payloads file
+        bar = ChargingBar(Fore.GREEN + 'Injecting Scripts and finding XSS Vulnerability', max=36)
         for payload in f:
+            bar.next()
             # Getting the URL where the form data will be sent
             action = form.attrs.get('action').lower()
             finalURL = urljoin(url, action)
@@ -43,13 +46,16 @@ def xss():
             # Return True if Payload was successfully Injected
             if payload in content.text:
                 successful_payloads.append(payload)
-                print(Fore.CYAN + "\nPayload Injected Successfully --> " + Fore.YELLOW + payload)
+
+        bar.finish()
 
  
 url = input(Fore.BLUE + "\nEnter the URL: ")
 vulnerable = xss()
 
 if len(successful_payloads):
-	print(Fore.GREEN + "\nSite is vulnerable to XSS Attack!")
+    print(Fore.GREEN + "\nSite is vulnerable to XSS Attack!\n")
+    for i in successful_payloads:
+        print(Fore.CYAN + "Payload Injected Successfully --> " + Fore.YELLOW + i)
 else:
 	print(Fore.RED + Style.BRIGHT + "\nXSS Vulnerability not Present!")

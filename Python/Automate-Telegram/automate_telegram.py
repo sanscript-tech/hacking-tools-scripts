@@ -4,7 +4,7 @@ import time
 from selenium.webdriver.common.keys import Keys
 from webdriver_manager.chrome import ChromeDriverManager
 
-time_wait_sixty = 60
+time_wait_thirty = 30
 time_wait_four = 4
 
 #Here the process of automation is achieved by using the framework Selenium.
@@ -17,7 +17,7 @@ def automate_telegram():
     #For logging into web telegram, the user must verify the phone number
     URL = "https://web.telegram.org/#/login"
     driver.get(URL)
-    time.sleep(time_wait_sixty)
+    time.sleep(time_wait_thirty)
     user = 1
     while user:
         driver.find_element_by_xpath("/html/body/div[1]/div[2]/div/div[1]/div[1]/div/input").click()

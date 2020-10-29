@@ -8,4 +8,4 @@ Simply run the ```time_script.cpp``` file and define the required functions. The
 
 # Example
 
-![alt-text](https://github.com/TaniaMalhotra/hacking-tools-scripts/blob/program-timing/C%2B%2B/program-timing/Screenshot%20(494).png)
+![alt-text](https://github.com/TaniaMalhotra/hacking-tools-scripts/blob/program-timing/C%2B%2B/program-timing/Screenshot.png)

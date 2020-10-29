@@ -1,5 +1,8 @@
 # Script to find no of days left
 
+This script is used to find the number of days left for a particular date.</br>
+For example if the target date is 21st Jan 2021 and the present date is 28th Oct 2020, the output will show 84 days left.
+
 1. Open your browser and go to the required webpage.
 2. Launch Developer Tools in your Chrome browser
 

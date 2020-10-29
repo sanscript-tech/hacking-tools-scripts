@@ -2,5 +2,9 @@
 import os
 import subprocess
 
-program="calculator path"
-subprocess.Popen(program)
+program=input("Enter path of your program: ")
+
+try:
+	subprocess.Popen(program)
+except:
+	print("Error opening program!")

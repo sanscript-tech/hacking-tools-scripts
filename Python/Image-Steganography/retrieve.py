@@ -1,5 +1,5 @@
 from cryptography.fernet import Fernet
-from PIL import Image
+import cv2
 import numpy as np
 import sys
 
@@ -8,8 +8,15 @@ if len(sys.argv) < 3:
     sys.exit()
 
 
-image_path = sys.argv[1]
-key_path = sys.argv[2]
+def message_to_binary(message):
+    if type(message) == str:
+        return ''.join([ format(ord(i), "08b") for i in message ])
+    elif type(message) == bytes or type(message) == np.ndarray:
+        return [ format(i, "08b") for i in message ]
+    elif type(message) == int or type(message) == np.uint8:
+        return format(message, "08b")
+    else:
+        raise TypeError("Input type not supported")
 
 
 def decrypt_message(enc_message, key):
@@ -20,11 +27,10 @@ def decrypt_message(enc_message, key):
 def retrieve_info(image, key):
 
     binary_data = ""
-    image = np.array(image)
 
     for values in image:
         for pixel in values:
-            r, g, b = [format(i, "08b") for i in pixel]
+            r, g, b = message_to_binary(pixel)
             binary_data += r[-1]
             binary_data += g[-1]
             binary_data += b[-1]
@@ -34,15 +40,17 @@ def retrieve_info(image, key):
     decoded_data = ""
     for byte in all_bytes:
         decoded_data += chr(int(byte, 2))
-        if decoded_data[-5:] == "#####".encode():
+        if decoded_data[-5:] == "#####":
             break
 
     message = decrypt_message(decoded_data[:-5].encode(), key)
 
-    return decoded_data[:-5]
+    return message.decode()
 
+image_path = sys.argv[1]
+key_path = sys.argv[2]
 
-steg_image = Image.open(image_path, 'r')
+steg_image = cv2.imread(image_path)
 with open(key_path, "rb") as f:
     key = f.read()
 

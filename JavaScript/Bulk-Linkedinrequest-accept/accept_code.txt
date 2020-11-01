@@ -1,0 +1,7 @@
+#Javascript Code to run in console to accept the bulk accept requests
+
+var x = document.getElementsByClassName("invitation-card__action-btn artdeco-button artdeco-button--2 artdeco-button--secondary ember-view");//x is request
+for(var i=0;i < x.length;i++) //for loop to process each request
+{
+x[i].click();
+}

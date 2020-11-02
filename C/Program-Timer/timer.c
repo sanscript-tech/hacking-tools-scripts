@@ -2,8 +2,11 @@
 #include<stdio.h>
 
 // Placeholer function to edit:
-void function(int a, int b){
-    printf("%d + %d = %d\n", a, b, a+b);
+void function(){
+    int a, b;
+    printf("Enter numbers to add(space separated):");
+    scanf("%d %d", &a, &b);
+    printf("Sum of %d and %d is %d.\n", a, b, a+b);
 }
 
 int main(int argc, char *argv[])
@@ -13,7 +16,7 @@ int main(int argc, char *argv[])
     and time the function.
     */
     clock_t start = clock();
-    function(23, 54);
+    function();
     clock_t end = clock();
 
     // Divide clock difference with CLOCKS_PER_SEC to convert time to seconds

@@ -1,7 +1,9 @@
 # Import statements
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
+# time is inbuilt package 
 from time import sleep
+# Actions to be perfromed while automation
 from selenium.webdriver.common.action_chains import ActionChains
 import os
 

@@ -14,6 +14,7 @@ Categories you can choose from are:</br>
 
 ## Requirements
 ```pip install newsapi-python```
+```pip install pyttsx3==2.711```
 
 ## To use:
 - ```python news.py```

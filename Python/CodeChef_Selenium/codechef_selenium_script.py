@@ -1,9 +1,11 @@
+# Import statements
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from time import sleep
 from selenium.webdriver.common.action_chains import ActionChains
 import os
 
+# User input declaration
 username = ""
 password = ""
 solution = ""
@@ -42,7 +44,7 @@ def go_to_problem():
     sleep(5)
 
 def upload_solution():
-    # scroll down
+    # scroll down to a pivot element
     actions = ActionChains(driver)
     pivot = driver.find_element_by_xpath("//*[@id='edit-submit-1']")
     actions.move_to_element(pivot).perform()

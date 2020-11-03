@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-yt-downloader",
+  "version": "1.0.0",
+  "description": "`npm init`",
+  "main": "index.js",
+  "bin": {
+    "ytdload": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ninjavin",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "figlet": "^1.5.0",
+    "ytdl-core": "^4.0.2"
+  }
+}

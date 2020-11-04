@@ -1,4 +1,4 @@
-imjort java.util.*; 
+import java.util.*; 
 
 class MaxPrime
 { 

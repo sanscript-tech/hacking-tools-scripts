@@ -43,39 +43,67 @@ def scan_port(target_IP, port):
         print(f"Port {port}: \033[92mOPEN\033[0m")
         return port
 
-    print(f"Port {port}: \033[91mCLOSED\033[0m")
     return None
 
-# List to hold open ports.
-open_ports = []
 
-# Create a context manager to spawn individual threads for each port.
-with concurrent.futures.ThreadPoolExecutor() as executor:
+def scan_ports(port_range):
 
-    # Check if the users has provided custom ports or not.
-    if len(custom_ports) == 0:
+    if not port_range:
+        port_range = map(int, input("Enter ports(space separated):").split())
+
+    # List to hold open ports.
+    open_ports = []
+
+    # Create a context manager to spawn individual threads for each port.
+    with concurrent.futures.ThreadPoolExecutor() as executor:
+
         future_to_port = {
-            executor.submit(scan_port, target_IP, port): port for port in range(65535)
-        }
-    else:
-        future_to_port = {
-            executor.submit(scan_port, target_IP, int(port)): port for port in custom_ports
+            executor.submit(scan_port, target_IP, port): port for port in port_range
         }
 
-    # Run a loop to collect open ports.
-    for future in concurrent.futures.as_completed(future_to_port):
-        # Get the selected port
-        port = future_to_port[future]
-        try:
-            # Check if it a valid port.
-            open_port = future.result()
-        except Exception as e:
-            # Print any errors.
-            print(f"Exception:{e}")
-        else:
-            # Add to the list if it's a valid port.
-            if open_port is not None:
-                open_ports.append(open_port)
+        # Run a loop to collect open ports.
+        for future in concurrent.futures.as_completed(future_to_port):
+            # Get the selected port
+            port = future_to_port[future]
+            try:
+                # Check if it a valid port.
+                open_port = future.result()
+            except Exception as e:
+                # Print any errors.
+                print(f"Exception:{e}")
+            else:
+                # Add to the list if it's a valid port.
+                if open_port is not None:
+                    open_ports.append(open_port)
 
-# Finally print all the open ports.
-print(f"Open Ports:{open_ports}")
+    return open_ports
+
+
+if __name__ == "__main__":
+
+    MENU_PROMPT =\
+"""[1] Reserved Ports.
+[2] All Ports.
+[3] Critical Ports.
+[4] Manual Ports.
+Enter your choice:"""
+
+    # Get user choice
+    choice = int(input(MENU_PROMPT))
+
+    # Define switcher
+    switcher = {
+        1: range(1024),
+        2: range(65536),
+        3: [15, 20, 21, 22, 23, 25, 49, 50, 51, 53, 67, 68, 69, 79, 80, 88,
+            110, 111, 119, 123, 135, 137, 138, 139, 143, 161, 389, 443, 445,
+            500, 520, 546, 547, 636, 993, 995, 1512, 1701, 1720, 1723, 1812,
+            1813, 3306, 3389, 5004, 5005, 5060, 5061, 5900, 8080],
+        4: []
+    }
+
+    # Call method to scan ports.
+    open_ports = scan_ports(switcher[choice])
+
+    # Finally print all the open ports.
+    print(f"Open Ports:{open_ports}")

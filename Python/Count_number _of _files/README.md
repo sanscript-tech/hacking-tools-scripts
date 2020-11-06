@@ -8,4 +8,4 @@
 
 ## Output
 
-![output](output.png)
+![Output](Output.png)

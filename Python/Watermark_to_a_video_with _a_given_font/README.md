@@ -1,6 +1,9 @@
 ## watermark a video with a given font
 - This script built in Python, using this python script you can watermark a video. 
 - The OpenCV and Numpy Libraries are used to built this scripts.
+## Requirements
+- install OpenCv (use command:- "pip install opencv-python" to install OpenCv through Command Prompt)
+- install ffpyplayer (use command:- "pip install ffpyplayer" to install ffpyplayer through Command Prompt)
 ## Working
 ![Image](images/input.png)
 - The user enters :

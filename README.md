@@ -1,5 +1,5 @@
-<p align="center">
-  ![Hack](https://github.com/Mukulbaid63/hacking-tools-scripts/blob/Mukulbaid63-patch-r/hack.gif)
+
+![Hack](https://github.com/Mukulbaid63/hacking-tools-scripts/blob/Mukulbaid63-patch-r/hack.gif)  
 <h1 align = "center">Hacking-Tools-Scripts</h1>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)

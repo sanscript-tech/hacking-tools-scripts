@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/sanscript-tech/hacking-tools-scripts">
-    ![Hack](hack.gif)
+    ![Hack](https://github.com/Mukulbaid63/hacking-tools-scripts/blob/Mukulbaid63-patch-r/hack.gif)
   </a>
 <h1 align = "center">Hacking-Tools-Scripts</h1>
 

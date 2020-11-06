@@ -1,7 +1,5 @@
-<p align="center">
-  <a href="https://github.com/sanscript-tech/hacking-tools-scripts">
-    <img src="https://www.flaticon.com/svg/static/icons/svg/44/44672.svg" alt="Logo" width = "150">
-    </a>
+
+![Hack](https://github.com/Mukulbaid63/hacking-tools-scripts/blob/Mukulbaid63-patch-r/hack.gif)  
 <h1 align = "center">Hacking-Tools-Scripts</h1>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)

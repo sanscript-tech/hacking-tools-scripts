@@ -2,8 +2,8 @@
 
 ## How to Run?
 
-* Create folder in your desktop and copy the path
-* HOME_FOLDER = paste the path name
+* Create folder in your desktop 
+* Enter the path of your Folder
 * Run 'Count_number_of_files.py'
 
 ## Output

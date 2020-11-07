@@ -19,7 +19,6 @@ def centroids(cnt):
 
 
 if __name__ == '__main__':
-    global shapes
     img = cv2.imread("img.png",0)
     image = cv2.imread("img.png")
     h_img,w_img=img.shape

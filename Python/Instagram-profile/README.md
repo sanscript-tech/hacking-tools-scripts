@@ -10,6 +10,6 @@
 #### Working
 - The user is prompted to the desired username
 - On entering the username, Selenium opens up and the url of the profile picture is obtained
-- The image is downloaded with the name imstagram_profile.jpg
+- The image is downloaded with the name instagram_profile.jpg
 
 ![Image](profile.PNG)

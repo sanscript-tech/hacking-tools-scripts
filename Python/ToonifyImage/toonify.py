@@ -6,7 +6,7 @@ r = requests.post(
     files={
         'image': open(imagePath, 'rb'),
     },
-    headers={'api-key': 'e6c65153-10a5-45f8-a24e-9d8d7ef4f76f'}
+    headers={'api-key': 'your api key'}
 )
 y=r.json()
 image_url=y['output_url']

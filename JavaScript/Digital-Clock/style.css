@@ -1,0 +1,27 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body, html{
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	background: #1661ee;
+	font-family: Lato, arial;
+}
+
+#digitalClock{
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+	height: max-content;
+	margin: auto;
+	font-size: 7vw;
+	color: white;
+}

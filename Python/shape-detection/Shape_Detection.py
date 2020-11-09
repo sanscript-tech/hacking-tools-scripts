@@ -171,10 +171,10 @@ if __name__ == '__main__':
                 col= "green"
             else:
                 col="red"
-            shapes["Ellpise"].append(col)
-            shapes["Ellpise"].append(ar)
-            shapes["Ellpise"].append(cx)
-            shapes["Ellpise"].append(cy)
+            shapes["Ellipse"].append(col)
+            shapes["Ellipse"].append(ar)
+            shapes["Ellipse"].append(cx)
+            shapes["Ellipse"].append(cy)
         else:
 #if contour has no vertex then it is a circle
             shapes["Circle"]=[]

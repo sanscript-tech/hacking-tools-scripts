@@ -6,6 +6,7 @@ This script converts original image into black and white sketched image.
 ## Third Party Libraries Required :
 1. opencv library 
 2. scikit-image library
+3. pillow library
 
 ### How to install above Library
 Install the following libraries through command line:
@@ -13,14 +14,14 @@ Install the following libraries through command line:
 pip install opencv-python
 pip install numpy
 pip install scikit-image
+pip install pillow
 ```
 ### How to use it :
 1. Download or clone the repository
 2. Install required libraries
-3. Add path of your image in ```img = io.imread("enter your image path") ``` function from **Sketch.py**
-4. Run **Sketch.py**
+3. Run **Sketch.py**
+4. Give the path of your image 
 5. Your black and white sketched image will get displayed
-6. If you want to save the image in the same directory then uncomment ```cv2.imwrite('sketch.jpg', sketch(img))``` and run **Sketch.py** again
 
 ### Results:
 

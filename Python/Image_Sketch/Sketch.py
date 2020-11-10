@@ -2,6 +2,7 @@
 import cv2
 import numpy as np
 from skimage import io
+from PIL import Image
 
 # Making a sketch generating function
 
@@ -21,7 +22,10 @@ def sketch(img):
     return mask
 
 # Reading our image
-img = io.imread("obama.jpg")
+
+filename = input("Enter the file name: ")
+img = Image.open(filename)
+#img = io.imread("obama.jpg")
 cv2.imshow('Our Sketch', sketch(img))
 # cv2.imwrite('sketch.jpg', sketch(img))
 cv2.waitKey(0)

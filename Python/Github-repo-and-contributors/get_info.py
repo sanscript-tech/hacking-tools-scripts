@@ -14,4 +14,4 @@ def get_repo_info():
   return(info)
 
 if __name__ == "__main__":
-  get_repo_info()
+  print(get_repo_info())

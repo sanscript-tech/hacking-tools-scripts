@@ -9,5 +9,6 @@
 - The user is prompted to enter :
     - The username of the owner of the repository
     - The name of the repository
-- Considering an example, considering the repository : https://github.com/sanscript-tech/hacking-tools-scripts , the username is sanscript-tech, the name of the repository is hacking-tools-scripts
+- Considering an example of the repository : https://github.com/sanscript-tech/hacking-tools-scripts , the username is sanscript-tech, the name of the repository is hacking-tools-scripts
+
 ![Image](github.PNG)

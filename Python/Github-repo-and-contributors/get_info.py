@@ -2,7 +2,7 @@ import requests
 import json
 
 def get_repo_info():
-  name = input("Enter the name of the owner of the repository ")
+  name = input("Enter the Github username of the owner of the repository ")
   repo = input("Enter the name of the repository ")
   size_URL = "https://api.github.com/repos/" + name + "/" + repo
   response_1 = requests.get(size_URL)

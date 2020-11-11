@@ -6,7 +6,7 @@ A Python Script to detect shapes,shapes area, color,centroid from images.
 
 + Run `pip install opencv-python` to install the required packages.
 + Add the image to same folder with the name **img.jpeg**
-+ Run the script using `python3 Shape_Detection.py`
-+ The script will printout shapes area color centroid
++ Run the script using `python3 circle.py`
++ The script will printout circle radius centre coordinates as well as image with same
 
 

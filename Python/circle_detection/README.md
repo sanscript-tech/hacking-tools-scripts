@@ -10,3 +10,8 @@ A Python Script to detect shapes,shapes area, color,centroid from images.
 + The script will printout circle radius centre coordinates as well as image with same
  
  ## example
+ 
+ ### INPUT
+![](/Python/circle_detection/img.jpeg)
+ ### OUTPUT
+![](/Python/circle_detection/Screenshot(100).png)

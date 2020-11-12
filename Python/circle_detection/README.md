@@ -14,4 +14,5 @@ A Python Script to detect shapes,shapes area, color,centroid from images.
  ### INPUT
 ![](/Python/circle_detection/img.jpeg)
  ### OUTPUT
-![](/Python/circle_detection/Screenshot(100).png)
+![](/Python/circle_detection/Screenshot (100).png)
+

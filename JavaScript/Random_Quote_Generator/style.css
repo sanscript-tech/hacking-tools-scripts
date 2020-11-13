@@ -1,0 +1,36 @@
+body {
+    background-color: #fddb3a;
+    text-align: center;
+}
+
+.container {
+    background-color: #222831;
+    color: white;
+    margin: 10% 20% 3% 20%;
+    padding: 2%;
+    font-size: 35px;
+    border-radius: 50px 0 50px 0;
+}
+
+button {
+      background-color: turquoise;
+      border-color: black;
+      color: black;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 24px;
+      margin: 4px 2px;
+      cursor: pointer;
+      border-radius: 5px;
+      font-weight: 500;
+  }
+
+  .quote {
+      text-align: center;
+  }
+
+  .author {
+      text-align: end;
+  }

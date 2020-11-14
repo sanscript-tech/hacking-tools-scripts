@@ -10,4 +10,4 @@ python script.py
 ## Screenshot
 After running the script we will find the extracted file in the current directory.
 
-![demo](https://user-images.githubusercontent.com/56690856/99091832-6add4280-25f6-11eb-999d-86d8b5794d57.png)
+![demo](https://user-images.githubusercontent.com/56690856/99141235-5b4e1000-266f-11eb-8798-a0315a0f834c.png)

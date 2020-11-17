@@ -2,8 +2,7 @@
 
 ## How to Run?
 
-* Create folder in your desktop 
-* Enter the path of your Folder
+* Install win10toast and playsound
 * Run 'Alarm Clock with GUI.py'
 
 ## Output

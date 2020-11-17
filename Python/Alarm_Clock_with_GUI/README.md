@@ -4,7 +4,7 @@
 
 * Create folder in your desktop 
 * Enter the path of your Folder
-* Run 'Alarm Clock with GUI .py'
+* Run 'Alarm Clock with GUI.py'
 
 ## Output
 

@@ -10,6 +10,11 @@ npm install readline-sync
 - gtts</br>
 npm install gtts</br>
 
+To run the script, run this command in the terminal:</br>
+$ node "path_of_the_file"</br>
+For example:</br>
+$ node "c:\Users\Sapna\Desktop\hacking-tools-scripts\JavaScript\Text_to_Speech_CLI\script.js"</br>
+
 Now when you run the script you will get a voice.mp3 file in your folder.
 
 ## Screenshot

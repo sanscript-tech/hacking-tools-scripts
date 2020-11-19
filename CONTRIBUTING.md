@@ -14,7 +14,7 @@
 - Before opening a new issue, please check if it is already created or not.
 - Issues labelled with **AOS2020** are only eligible.
 - Pull requests will be merged after being reviewed by a mentor.
-- Create a pull request from **a branch** not from Master.
+- Create a pull request from **a branch** not from **Main**.
 - You will be **scored** based on the level of issues you have solved.
 - It might take a day to review your pull request. Please have patience and be nice.
 - We all are here to learn. You are allowed to make mistakes. That's how you learn, right!

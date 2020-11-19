@@ -1,0 +1,38 @@
+body {
+    background-color: #fecd1a;
+}
+
+.container {
+    background-color: black;
+    color: white;
+    padding: 30px;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    margin-top: 10%;
+    border-radius: 30px;
+}
+
+h1{
+    font-size:60px
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.btn{
+    margin: 25px;
+    font-size: 25px;
+    border-color: chartreuse;
+    border-width: 5px;
+}
+
+#alarm{
+    font-size: 30px;
+    padding: 10px;
+}
+
+::placeholder{
+    color: black;
+}

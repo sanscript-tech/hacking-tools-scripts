@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.notification{
+   
+    font-size: 20px;
+}
+.loc{
+    margin: 10px;
+    padding: 15px;
+    font-size: 30px;
+}
+.aq{
+    margin: 10px;
+    padding: 15px;
+    font-size: 30px;
+}
+h1{
+    border-bottom: 3px black solid;
+}
+.aqi{
+    font-weight: 700;
+}
+.location{
+    font-weight: 500;
+}

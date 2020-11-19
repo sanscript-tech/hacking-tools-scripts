@@ -3,7 +3,15 @@ api = "https://api.exchangerate-api.com/v4/latest/USD"
 # Getting Currency Rates from the API
 rates = requests.get(api).json()['rates']
 # Currency from which we need to convert
-from_currency = input("Enter the currency code from which you want to convert : ").upper()
+i = 0
+print("\nHere's the list of different currency codes : \n")
+for rate in rates:
+	if(i == len(rates)-1):
+		print(rate)
+	else:
+		print(rate, end=", ")
+	i = i+1
+from_currency = input("\nEnter the currency code from which you want to convert : ").upper()
 # Currency to which we are converting
 to_currency = input("Enter the currency code to which you want to convert : ").upper()
 value = float(input("Enter the currency amount : "))

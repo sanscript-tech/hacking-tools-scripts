@@ -1,5 +1,5 @@
-## Amazon Price Tracker 
-- This script built in Python is an Amazon Price Tracker. 
+## PDF Watermark script
+- This script built in Python is used to add PDF WATERMARK . 
 - The user enters :
     - The Original PDF Name.
     - Output PDF to be name.

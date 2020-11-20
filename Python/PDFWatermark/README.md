@@ -1,7 +1,7 @@
 ## PDF Watermark script
 - This script built in Python is used to add PDF WATERMARK . 
 - The user enters :
-    - The Original PDF Name.
+    - The Original PDF Name and the same PDF should be in current location.
     - Output PDF to be name.
     - Watermark Text.
     - Watermark coordinates.

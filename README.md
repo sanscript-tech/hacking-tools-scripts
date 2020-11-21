@@ -29,7 +29,7 @@ Collection of awesome scripts and hacking tools from basic to advance. Contribut
 <p  align="center"><img src="https://media.giphy.com/media/Rje6bsoJVORnLBfZwP/giphy.gif" alt="Logo" width="300" height="300"> <img src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif" width="300" height="300">
 
 ## Overview
-This project is mainly ensured to build in an open source community to help the people of our country grow and develop themselves.
+This project is mainly ensured to build in an open source community to help the people of our country to grow and develop themselves.
 
 ## Tech stacks used
 
@@ -41,7 +41,7 @@ This project is mainly ensured to build in an open source community to help the 
 * Contributions will end on ***20 November 2020***.
 
 
-### This project is under AOS 2020 (Autumn open source program) under Sanscript, India.
+### This project is under AOS 2020 (Autumn of Open Source) program under Sanscript, India.
 
 ## 🌟 Project Maintainers 🌟
 

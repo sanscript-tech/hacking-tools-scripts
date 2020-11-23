@@ -62,6 +62,7 @@ This project is mainly ensured to build in an open source community to help the 
     <td align="center"><a href="https://github.com/yashaswibiyahut"><img src="https://avatars1.githubusercontent.com/u/32020835?s=400&u=2bc1c105d1ddba1c710afd7792941ba25d0a78dd&v=4" width="100px;" alt=""/><br /><sub><b>Yashaswi Biyahut</b></sub></a></td>
     <td align="center"><a href="https://github.com/SANKET7738"><img src="https://avatars2.githubusercontent.com/u/60286107?s=460&u=17bfa4a98b6472549ce7bcb025b861c8d653426d&v=4" width="100px;" alt=""/><br /><sub><b>SANKET MHATRE</b></sub></a></td>
     <td align="center"><a href="https://github.com/balapriyac"><img src="https://avatars1.githubusercontent.com/u/47279635?s=400&u=f5166ac287b4feceab836d08b5e8766932de84da&v=4" width="100px;" alt=""/><br /><sub><b> Bala Priya</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Ninjavin"><img src="https://avatars2.githubusercontent.com/u/49443829?s=400&u=916bf637cd667f3e5920ba564827e45431d652bc&v=4" width="100px;" alt=""/><br /><sub><b>Vineeta Jain</b></sub></a></td>
     
   </tr>
 </table>

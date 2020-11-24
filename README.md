@@ -36,7 +36,7 @@ This project is mainly ensured to build in an open source community to help the 
 **Any Scripting Language**
 
 ## How to participate and contribute?
-* Register as a participant on [**Sanscript India**](https://sanscript.tech) website and start contributing. ***Registrations are Open!!***
+* Register as a participant on [**Sanscript India**](https://sanscript.tech) website and start contributing. ***Registrations are Closed!!***
 * Follow contribution guidelines mentioned [here.](https://github.com/sanscript-tech/hacking-tools-scripts/blob/main/CONTRIBUTING.md)
 * Contributions will end on ***20 November 2020***.
 

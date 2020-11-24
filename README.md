@@ -1,7 +1,5 @@
-<p align="center">
-  <a href="https://github.com/sanscript-tech/hacking-tools-scripts">
-    <img src="https://www.flaticon.com/svg/static/icons/svg/44/44672.svg" alt="Logo" width = "150">
-    </a>
+
+![Hack](https://github.com/Mukulbaid63/hacking-tools-scripts/blob/Mukulbaid63-patch-r/hack.gif)  
 <h1 align = "center">Hacking-Tools-Scripts</h1>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
@@ -23,7 +21,7 @@
     <img src="https://avatars3.githubusercontent.com/t/4187434?s=280&v=4" alt="Logo">
   </a>
 
-Autumn of Open Source, 2020, is an Open Source Program organized by [**Sanscript India**](https://sanscript.tech) to spread awareness and promote the culture of Open Source Projects development among beginners and youth. The program will continue for a month in which all participants will contribute at their level of expertise. There will be highly skilled and experienced ***Project Leaders*** and ***Mentors*** who will guide participants to contribute to Open Source Projects. In the end, participants who have performed well, will be announced as **winners**, and **rewards** will be distributed, including **internship** opportunities. All participants will recieve a **contribution certificate**.
+Autumn of Open Source(AOS)2020, is an Open Source Program organized by [**Sanscript India**](https://sanscript.tech) to spread awareness and promote the culture of Open Source Projects development among beginners and youth. The program will continue for a month in which all participants will contribute at their level of expertise. There will be highly skilled and experienced ***Project Leaders*** and ***Mentors*** who will guide participants to contribute to Open Source Projects. In the end, participants who have performed well, will be announced as **winners**, and **rewards** will be distributed, including **internship** opportunities. All participants will recieve a **contribution certificate**.
 
  ## Brief about project:
 Collection of awesome scripts and hacking tools from basic to advance. Contributing to this project will help you learn open source development and collaborations.
@@ -31,7 +29,7 @@ Collection of awesome scripts and hacking tools from basic to advance. Contribut
 <p  align="center"><img src="https://media.giphy.com/media/Rje6bsoJVORnLBfZwP/giphy.gif" alt="Logo" width="300" height="300"> <img src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif" width="300" height="300">
 
 ## Overview
-This project is mainly ensured to build in an open source community to help the people of our country grow and develop themselves.
+This project is mainly ensured to build in an open source community to help the people of our country to grow and develop themselves.
 
 ## Tech stacks used
 
@@ -43,7 +41,7 @@ This project is mainly ensured to build in an open source community to help the 
 * Contributions will end on ***20 November 2020***.
 
 
-### This project is under AOS 2020 (Autumn open source program) under Sanscript, India.
+### This project is under AOS 2020 (Autumn of Open Source) program under Sanscript, India.
 
 ## 🌟 Project Maintainers 🌟
 
@@ -53,6 +51,22 @@ This project is mainly ensured to build in an open source community to help the 
     <td align="center"><a href="https://github.com/yashaswibiyahut"><img src="https://avatars1.githubusercontent.com/u/32020835?s=400&u=2bc1c105d1ddba1c710afd7792941ba25d0a78dd&v=4" width="100px;" alt=""/><br /><sub><b>Yashaswi Biyahut</b></sub></a></td>
     <td align="center"><a href="https://github.com/SANKET7738"><img src="https://avatars2.githubusercontent.com/u/60286107?s=460&u=17bfa4a98b6472549ce7bcb025b861c8d653426d&v=4" width="100px;" alt=""/><br /><sub><b>SANKET MHATRE</b></sub></a></td>
     <td align="center"><a href="https://github.com/balapriyac"><img src="https://avatars1.githubusercontent.com/u/47279635?s=400&u=f5166ac287b4feceab836d08b5e8766932de84da&v=4" width="100px;" alt=""/><br /><sub><b> Bala Priya</b></sub></a></td>
+  </tr>
+</table>
+
+## :heart: Top Contributors :heart: 
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/tejan-singh"><img src="https://avatars2.githubusercontent.com/u/50990883?s=460&u=17dc74fae6985b2e189377cd4645ac685f932270&v=4" width="100px;" alt=""/><br /><sub><b>Tejan Singh</b></sub></a></td>
+    <td align="center"><a href="https://github.com/yashaswibiyahut"><img src="https://avatars1.githubusercontent.com/u/32020835?s=400&u=2bc1c105d1ddba1c710afd7792941ba25d0a78dd&v=4" width="100px;" alt=""/><br /><sub><b>Yashaswi Biyahut</b></sub></a></td>
+    <td align="center"><a href="https://github.com/SANKET7738"><img src="https://avatars2.githubusercontent.com/u/60286107?s=460&u=17bfa4a98b6472549ce7bcb025b861c8d653426d&v=4" width="100px;" alt=""/><br /><sub><b>SANKET MHATRE</b></sub></a></td>
+    <td align="center"><a href="https://github.com/balapriyac"><img src="https://avatars1.githubusercontent.com/u/47279635?s=400&u=f5166ac287b4feceab836d08b5e8766932de84da&v=4" width="100px;" alt=""/><br /><sub><b> Bala Priya</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Ninjavin"><img src="https://avatars2.githubusercontent.com/u/49443829?s=400&u=916bf637cd667f3e5920ba564827e45431d652bc&v=4" width="100px;" alt=""/><br /><sub><b>Vineeta Jain</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Sapna2001"><img src="https://avatars2.githubusercontent.com/u/56690856?s=400&u=1d624418971210afff0640114681ffd844f10e72&v=4" width="100px;" alt=""/><br /><sub><b> Hari Sapna Nair</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Nibba2018"><img src="https://avatars3.githubusercontent.com/u/29832615?s=460&u=646a33259b66f84806bda6aeafa3e5805797a98c&v=4" width="100px;" alt=""/><br /><sub><b> Soham Biswas</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Mukulbaid63"><img src="https://avatars0.githubusercontent.com/u/61585314?v=4" width="100px;" alt=""/><br /><sub><b>Muddhit Baid</b></sub></a></td>
+    
   </tr>
 </table>
 

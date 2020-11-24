@@ -1,0 +1,16 @@
+{
+  "name": "news-assistant",
+  "version": "1.0.0",
+  "description": "A news assistant to read out your favourite news",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tania Malhotra",
+  "license": "ISC",
+  "dependencies": {
+    "json-query": "^2.2.2",
+    "prompt-sync": "^4.2.0",
+    "say": "^0.16.0"
+  }
+}

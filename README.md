@@ -66,8 +66,10 @@ This project is mainly ensured to build in an open source community to help the 
     <td align="center"><a href="https://github.com/Sapna2001"><img src="https://avatars2.githubusercontent.com/u/56690856?s=400&u=1d624418971210afff0640114681ffd844f10e72&v=4" width="100px;" alt=""/><br /><sub><b> Hari Sapna Nair</b></sub></a></td>
     <td align="center"><a href="https://github.com/Nibba2018"><img src="https://avatars3.githubusercontent.com/u/29832615?s=460&u=646a33259b66f84806bda6aeafa3e5805797a98c&v=4" width="100px;" alt=""/><br /><sub><b> Soham Biswas</b></sub></a></td>
     <td align="center"><a href="https://github.com/Mukulbaid63"><img src="https://avatars0.githubusercontent.com/u/61585314?v=4" width="100px;" alt=""/><br /><sub><b>Muddhit Baid</b></sub></a></td>
+    </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/HaripriyaB"><img src="https://avatars3.githubusercontent.com/u/34762451?s=400&u=8c46ae291fc89a67e9a24f28e9d5fc9c1bedf10c&v=4" width="100px;" alt=""/><br /><sub><b>Haripriya Baskaran</b></sub></a></td>
     <td align="center"><a href="https://github.com/harshareddy794"><img src="https://avatars3.githubusercontent.com/u/48166328?s=460&u=09546caead95b6d042078c5f01c9720f6a26db69&v=4" width="100px;" alt=""/><br /><sub><b>Harshavardhan</b></sub></a></td>
-    
   </tr>
 </table>
 

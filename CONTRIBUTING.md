@@ -1,4 +1,4 @@
-### Welcome to Autumn of Open Source 2020! 🤗 (Registrations still open)
+### Welcome to Autumn of Open Source 2020! 🤗
 
 **For participation, please visit** : https://aos.sanscript.tech/
 

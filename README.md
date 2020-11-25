@@ -70,7 +70,7 @@ This project is mainly ensured to build in an open source community to help the 
   <tr>
     <td align="center"><a href="https://github.com/HaripriyaB"><img src="https://avatars3.githubusercontent.com/u/34762451?s=400&u=8c46ae291fc89a67e9a24f28e9d5fc9c1bedf10c&v=4" width="100px;" alt=""/><br /><sub><b>Haripriya Baskaran</b></sub></a></td>
     <td align="center"><a href="https://github.com/harshareddy794"><img src="https://avatars3.githubusercontent.com/u/48166328?s=460&u=09546caead95b6d042078c5f01c9720f6a26db69&v=4" width="100px;" alt=""/><br /><sub><b>Harshavardhan</b></sub></a></td>
-    <td align="center"><a href="https://github.com/Namyalg"><img src="https://avatars0.githubusercontent.com/u/53875297?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Harshavardhan</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Namyalg"><img src="https://avatars0.githubusercontent.com/u/53875297?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Namya LG</b></sub></a></td>
   </tr>
 </table>
 

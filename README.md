@@ -59,18 +59,31 @@ This project is mainly ensured to build in an open source community to help the 
 <table>
   <tr>
     <td align="center"><a href="https://github.com/tejan-singh"><img src="https://avatars2.githubusercontent.com/u/50990883?s=460&u=17dc74fae6985b2e189377cd4645ac685f932270&v=4" width="100px;" alt=""/><br /><sub><b>Tejan Singh</b></sub></a></td>
-    <td align="center"><a href="https://github.com/yashaswibiyahut"><img src="https://avatars1.githubusercontent.com/u/32020835?s=400&u=2bc1c105d1ddba1c710afd7792941ba25d0a78dd&v=4" width="100px;" alt=""/><br /><sub><b>Yashaswi Biyahut</b></sub></a></td>
-    <td align="center"><a href="https://github.com/SANKET7738"><img src="https://avatars2.githubusercontent.com/u/60286107?s=460&u=17bfa4a98b6472549ce7bcb025b861c8d653426d&v=4" width="100px;" alt=""/><br /><sub><b>SANKET MHATRE</b></sub></a></td>
-    <td align="center"><a href="https://github.com/balapriyac"><img src="https://avatars1.githubusercontent.com/u/47279635?s=400&u=f5166ac287b4feceab836d08b5e8766932de84da&v=4" width="100px;" alt=""/><br /><sub><b> Bala Priya</b></sub></a></td>
-    <td align="center"><a href="https://github.com/Ninjavin"><img src="https://avatars2.githubusercontent.com/u/49443829?s=400&u=916bf637cd667f3e5920ba564827e45431d652bc&v=4" width="100px;" alt=""/><br /><sub><b>Vineeta Jain</b></sub></a></td>
-    <td align="center"><a href="https://github.com/Sapna2001"><img src="https://avatars2.githubusercontent.com/u/56690856?s=400&u=1d624418971210afff0640114681ffd844f10e72&v=4" width="100px;" alt=""/><br /><sub><b> Hari Sapna Nair</b></sub></a></td>
-    <td align="center"><a href="https://github.com/Nibba2018"><img src="https://avatars3.githubusercontent.com/u/29832615?s=460&u=646a33259b66f84806bda6aeafa3e5805797a98c&v=4" width="100px;" alt=""/><br /><sub><b> Soham Biswas</b></sub></a></td>
-    <td align="center"><a href="https://github.com/Mukulbaid63"><img src="https://avatars0.githubusercontent.com/u/61585314?v=4" width="100px;" alt=""/><br /><sub><b>Muddhit Baid</b></sub></a></td>
+    
+   <td align="center"><a href="https://github.com/yashaswibiyahut"><img src="https://avatars1.githubusercontent.com/u/32020835?s=400&u=2bc1c105d1ddba1c710afd7792941ba25d0a78dd&v=4" width="100px;" alt=""/><br /><sub><b>Yashaswi Biyahut</b></sub></a></td>
+    
+   <td align="center"><a href="https://github.com/SANKET7738"><img src="https://avatars2.githubusercontent.com/u/60286107?s=460&u=17bfa4a98b6472549ce7bcb025b861c8d653426d&v=4" width="100px;" alt=""/><br /><sub><b>SANKET MHATRE</b></sub></a></td>
+    
+   <td align="center"><a href="https://github.com/balapriyac"><img src="https://avatars1.githubusercontent.com/u/47279635?s=400&u=f5166ac287b4feceab836d08b5e8766932de84da&v=4" width="100px;" alt=""/><br /><sub><b> Bala Priya</b></sub></a></td>
     </tr>
+  
   <tr>
-    <td align="center"><a href="https://github.com/HaripriyaB"><img src="https://avatars3.githubusercontent.com/u/34762451?s=400&u=8c46ae291fc89a67e9a24f28e9d5fc9c1bedf10c&v=4" width="100px;" alt=""/><br /><sub><b>Haripriya Baskaran</b></sub></a></td>
-    <td align="center"><a href="https://github.com/harshareddy794"><img src="https://avatars3.githubusercontent.com/u/48166328?s=460&u=09546caead95b6d042078c5f01c9720f6a26db69&v=4" width="100px;" alt=""/><br /><sub><b>Harshavardhan</b></sub></a></td>
-    <td align="center"><a href="https://github.com/Namyalg"><img src="https://avatars0.githubusercontent.com/u/53875297?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Namya LG</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Ninjavin"><img src="https://avatars2.githubusercontent.com/u/49443829?s=400&u=916bf637cd667f3e5920ba564827e45431d652bc&v=4" width="100px;" alt=""/><br /><sub><b>Vineeta Jain</b></sub></a></td>
+    
+   <td align="center"><a href="https://github.com/Nibba2018"><img src="https://avatars3.githubusercontent.com/u/29832615?s=460&u=646a33259b66f84806bda6aeafa3e5805797a98c&v=4" width="100px;" alt=""/><br /><sub><b> Soham Biswas</b></sub></a></td>
+   
+   <td align="center"><a href="https://github.com/HaripriyaB"><img src="https://avatars3.githubusercontent.com/u/34762451?s=400&u=8c46ae291fc89a67e9a24f28e9d5fc9c1bedf10c&v=4" width="100px;" alt=""/><br /><sub><b>Haripriya Baskaran</b></sub></a></td>
+        
+   <td align="center"><a href="https://github.com/Sapna2001"><img src="https://avatars2.githubusercontent.com/u/56690856?s=400&u=1d624418971210afff0640114681ffd844f10e72&v=4" width="100px;" alt=""/><br /><sub><b> Hari Sapna Nair</b></sub></a></td>
+  </tr>
+   
+  <tr>
+   <td align="center"><a href="https://github.com/Mukulbaid63"><img src="https://avatars0.githubusercontent.com/u/61585314?v=4" width="100px;" alt=""/><br /><sub><b>Muddhit Baid</b></sub></a></td>
+  
+   <td align="center"><a href="https://github.com/Namyalg"><img src="https://avatars0.githubusercontent.com/u/53875297?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Namya LG</b></sub></a></td>
+   
+   <td align="center"><a href="https://github.com/harshareddy794"><img src="https://avatars3.githubusercontent.com/u/48166328?s=460&u=09546caead95b6d042078c5f01c9720f6a26db69&v=4" width="100px;" alt=""/><br /><sub><b>Harshavardhan</b></sub></a></td>
+
   </tr>
 </table>
 

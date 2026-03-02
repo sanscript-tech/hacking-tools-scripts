@@ -1,0 +1,43 @@
+.details{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    align-items: center;
+}
+.from{
+    padding: 10px;
+    margin: 10px;
+    width:14%;
+}
+.to{
+    padding: 10px;
+    margin: 10px;
+    width: 14%;
+}
+.convert{
+    padding: 10px;
+    margin: 20px;
+    width: 14%;
+    font-size: larger;
+}
+.search-box{
+    padding: 10px;
+    margin: 10px;
+    width: 14%;
+}
+.ans{
+    padding: 10px;
+    margin: 20px;
+    font-size: 30px;
+    
+}
+.ans-1{
+    padding: 10px;
+    margin: 20px;
+    font-size: 26px;
+    
+}
+.Date{
+    margin: 10px;
+    font-size: larger;
+}
